@@ -22,7 +22,7 @@
     text-decoration: none;
 }
 
-a:hover {
+.tabs li a:hover {
     font-size: 18px;
 }
 
