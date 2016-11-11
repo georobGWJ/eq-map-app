@@ -36,3 +36,20 @@ post '/users' do
       erb :'/partials/_new.html'
    end
 end
+
+# GET Route | DISPLAY a SINGLE AR Object
+get '/users/:id' do
+  # your code here
+  # erb :'/users/show'
+end
+
+# GET Route | RETURN an HTML/erb FORM for EDITING an AR Object
+get '/users/:id/edit' do
+  # your code here
+  # erb :'/users/edit'
+end
+
+# PUT Route | UPDATE a specific AR Object (using params returned from form)
+put '/users/:id' do
+  # your code here
+end

@@ -15,6 +15,10 @@ html body {
   width: 80%;
 }
 
+#main-page-intro {
+  margin: auto;
+}
+
 #header_container {
   margin-top: 5px;
   /*overflow: hidden;*/

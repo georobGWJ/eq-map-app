@@ -2,11 +2,12 @@
   <table id="header-table">
     <tr>
       <td id="header-left">
-        <h2>Dynamic Earthquake Mapper</h2>
+        <h2>Earthquake Map App</h2>
       </td>
       <td id="header-right">
         <a class="home-page" href="/">HOME</a><br>
-        <span>Welcome, <%= current_user.first_name %></span>
+        <span>Welcome <%= current_user.first_name %></span><br>
+        <span><%= current_user.email %></span>
         <form id="logout_user_form" action="/sessions/logout" method="POST">
            <input type="hidden" name="_method" value="DELETE">
            <input type="submit" value="Logout">

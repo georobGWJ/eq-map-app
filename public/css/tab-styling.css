@@ -22,6 +22,10 @@
     text-decoration: none;
 }
 
+a:hover {
+    font-size: 18px;
+}
+
 /*
   To get the "tab" effect, we have to cover up the grey border of the ul element
   To do this, we make the list item one pixel taller, give it a negative 1px bottom margin,
