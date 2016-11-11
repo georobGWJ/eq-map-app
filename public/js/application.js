@@ -71,29 +71,3 @@ eqfeed_callback = function(eqs) {
     });
   }
 }
-
-// eqArray.push(marker);
-// var infowindow = new google.maps.InfoWindow({
-//     content: an_event.magnitude;
-// });
-//   google.maps.event.addListener(marker, 'click', function() {
-//   infowindow.open(map,marker);
-// });
-
-// function plotPoint(Lat,Long,title,mag)
-// function plotPoint(args)
-// {
-//     var myLatlng = new google.maps.LatLng(args.Lat, args.Long);
-//     var marker = new google.maps.Marker({
-//           position: myLatlng,
-//           map: map,
-//           title: args.title
-//       });
-    // eqArray.push(marker);
-    // var infowindow = new google.maps.InfoWindow({
-    //     content: args.title
-    // });
-    //   google.maps.event.addListener(marker, 'click', function() {
-    //   infowindow.open(map,marker);
-    // });
-// }
