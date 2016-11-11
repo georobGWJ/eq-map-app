@@ -11,6 +11,7 @@ get '/events' do
 end
 
 get '/data_viz' do
+  @events = Event.all
   erb :"/partials/_data_viz"
 end
 
@@ -62,10 +63,4 @@ post '/events' do
   end
 
   erb :'/events'
-end
-
-# GET Route | DISPLAY a SINGLE AR Object
-get '/events/:id' do
-  # your code here
-  # erb :'/events/show'
 end

@@ -39,8 +39,11 @@ end
 
 # GET Route | DISPLAY a SINGLE AR Object
 get '/users/:id' do
-  # your code here
-  # erb :'/users/show'
+  if !params[:id]
+    erb :'/index'
+  else
+    erb :'/users/show'
+  end
 end
 
 # GET Route | RETURN an HTML/erb FORM for EDITING an AR Object

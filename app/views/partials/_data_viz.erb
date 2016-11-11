@@ -3,10 +3,33 @@
     <li><a href="/user_events">Data Management</a></li>
     <li><a href="/events">Earthquake Map</a></li>
     <li class="active"><a href="/data_viz">Earthquake Visualization</a></li>
-    <li><a href="/users">Account Data</a></li>
+    <li><a href="/users/#{<%= session[:id] %>}">Account Data</a></li>
   </ul>
 </div>
 <hr>
 
 <div class="display-top"></div>
-<div class="display-main"></div>
+<div class="display-main">
+  <table class = "eqs-details">
+    <tr>
+      <th>Date</th>
+      <th>Magnitude</th>
+      <th>Latitude</th>
+      <th>Longitude</th>
+      <th>Depth</th>
+      <th>U.S.G.S. Link</th>
+    </tr>
+  <% @events.each do |eq| %>
+    <tr>
+      <td><%= eq.date_time %></a></td>
+      <td><%= eq.magnitude %></td>
+      <td><%= eq.northing %></td>
+      <td><%= eq.easting %></td>
+      <td><%= eq.depth %></td>
+      <td>
+      <a href="http://earthquake.usgs.gov/earthquakes/eventpage/#{<% eq.usgs_id %> }">Link</a>
+      </td>
+    </tr>
+  <% end %>
+  </table>
+</div>
