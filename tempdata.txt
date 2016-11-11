@@ -1,0 +1,240 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2016-09-13T07:50:22.080Z,37.8046667,-122.1975,4.02,3.54,mw,236,12,0.01025,0.14,nc,nc72694726,2016-10-22T12:22:59.040Z,"3km SE of Piedmont, California",earthquake,0.08,0.13,,5,reviewed,nc,nc
+2015-11-04T22:54:54.470Z,37.7781667,-121.9638333,9.24,3.1,mw,119,52,0.01215,0.11,nc,nc72548525,2016-01-30T02:11:08.040Z,"1km E of San Ramon, California",earthquake,0.11,0.15,,4,reviewed,nc,nc
+2015-10-28T00:07:33.410Z,37.7775,-121.9635,8.98,3.13,ml,118,52,0.01286,0.09,nc,nc72545010,2016-01-22T23:41:20.040Z,"1km ESE of San Ramon, California",earthquake,0.1,0.16,0.17,66,reviewed,nc,nc
+2015-10-24T07:44:07.040Z,37.7831667,-121.9691667,9.6,3.21,mw,157,30,0.005879,0.21,nc,nc72542920,2016-01-22T23:41:13.040Z,"0km ENE of San Ramon, California",earthquake,0.16,0.22,,4,reviewed,nc,nc
+2015-10-24T07:43:46.260Z,37.781,-121.9668333,9.24,3.21,mw,166,53,0.008554,0.16,nc,nc72542915,2016-01-22T23:41:13.040Z,"0km E of San Ramon, California",earthquake,0.12,0.18,,4,reviewed,nc,nc
+2015-10-23T13:48:24.590Z,37.7825,-121.9655,8.7,3.23,mw,133,53,0.007781,0.12,nc,nc72542520,2016-01-22T23:41:11.040Z,"1km ENE of San Ramon, California",earthquake,0.11,0.17,,4,reviewed,nc,nc
+2015-10-19T23:21:17.680Z,37.7918333,-121.9635,7.4,3.6,mw,161,56,0.00684,0.15,nc,nc72540765,2016-09-13T08:05:03.635Z,"1km NE of San Ramon, California",earthquake,0.1,0.1,,5,reviewed,nc,nc
+2015-10-18T22:31:28.150Z,37.7898333,-121.9643333,8.62,3.26,mw,131,55,0.005574,0.14,nc,nc72540130,2016-01-15T20:51:09.040Z,"1km NE of San Ramon, California",earthquake,0.11,0.16,,4,reviewed,nc,nc
+2015-10-15T13:10:20.920Z,37.7861667,-121.9643333,8.52,3.36,mw,159,39,0.006087,0.14,nc,nc72537675,2016-01-15T20:50:40.040Z,"1km ENE of San Ramon, California",earthquake,0.1,0.14,,4,reviewed,nc,nc
+2015-10-14T10:58:41.190Z,37.7853333,-121.9636667,7.96,3.08,mw,119,54,0.006944,0.1,nc,nc72536565,2016-01-11T21:07:26.040Z,"1km ENE of San Ramon, California",earthquake,0.1,0.14,,3,reviewed,nc,nc
+2015-08-17T13:49:17.320Z,37.8366667,-122.2321667,4.69,4.01,mw,270,12,0.01169,0.15,nc,nc72507396,2016-09-13T15:56:36.820Z,"1km N of Piedmont, California",earthquake,0.08,0.11,,9,reviewed,nc,nc
+2015-08-09T20:26:10.620Z,37.7861667,-122.5913333,10.36,3.12,ml,195,89,0.0649,0.1,nc,nc72503636,2016-01-22T19:39:54.450Z,"11km SSW of Tamalpais-Homestead Valley, California",earthquake,0.11,0.23,0.21,69,reviewed,nc,nc
+2015-07-21T09:41:14.480Z,37.5776667,-121.974,8.37,3.98,mw,282,16,0.008754,0.17,nc,nc72490826,2016-10-26T08:16:49.412Z,"3km NNE of Fremont, California",earthquake,0.08,0.12,,4,reviewed,nc,nc
+2015-05-06T14:32:04.070Z,37.9661667,-122.0433333,12.12,3.51,mw,197,36,0.008952,0.19,nc,nc72444186,2016-01-27T22:32:39.124Z,"1km NNE of Pleasant Hill, California",earthquake,0.12,0.18,,4,reviewed,nc,nc
+2015-05-06T14:01:47.420Z,37.958,-122.0505,13.91,3.03,ml,188,36,0.02205,0.22,nc,nc72444161,2016-01-22T04:40:04.470Z,"1km NE of Pleasant Hill, California",earthquake,0.14,0.23,0.223,66,reviewed,nc,nc
+2015-05-03T22:13:19.500Z,37.9665,-122.0436667,13.14,3.64,mw,267,30,0.01364,0.21,nc,nc72439615,2016-01-27T22:31:36.930Z,"2km SW of Concord, California",earthquake,0.14,0.18,,3,reviewed,nc,nc
+2015-04-02T07:06:03.870Z,37.792,-121.9868333,9.89,3.61,mw,232,45,0.005873,0.14,nc,nc72424876,2016-09-13T08:17:20.672Z,"1km NNW of San Ramon, California",earthquake,0.09,0.12,,6,reviewed,nc,nc
+2015-03-10T17:07:23.640Z,37.7466667,-122.1441667,4.77,3.04,mw,102,18,0.03788,0.11,nc,nc72408845,2015-07-21T10:33:22.199Z,"2km NNE of San Leandro, California",earthquake,0.09,0.19,,5,reviewed,nc,nc
+2014-08-26T12:33:22.230Z,38.1661667,-122.2998333,10.44,3.73,ml,7,163,0.04861,0.05,nc,nc71095504,2015-07-27T22:34:43.529Z,"3km WSW of American Canyon, California",earthquake,1.69,0.81,0.119,13,reviewed,nc,nc
+2014-08-26T12:33:16.840Z,38.1785,-122.3008333,12.62,3.9,mw,260,41,0.05933,0.15,nc,nc72284586,2015-07-27T23:01:02.931Z,"3km W of American Canyon, California",earthquake,0.11,0.16,,7,reviewed,nc,nc
+2014-08-24T10:20:44.070Z,38.2151667,-122.3123333,11.12,6.02,mw,369,28,0.03579,0.18,nc,nc72282711,2016-08-09T16:24:31.095Z,"South Napa Earthquake",earthquake,0.11,0.15,,0,reviewed,nc,nc
+2014-06-29T01:51:34.700Z,37.8123,-122.9528,8.2,3.1,Ml,172,140.4,0.11678099,0.15,nc,nc72245946,2015-01-29T02:48:42.572Z,"25km WSW of Bolinas, California",earthquake,0.2,0.3,0.2,60,reviewed,nc,nc
+2013-11-13T17:30:30.500Z,37.7863,-121.9658,10.3,3.3,Mw,,54,0.00898315,0.13,nc,nc72106876,2016-03-12T02:13:24.499Z,"1km ENE of San Ramon, California",earthquake,0.1,0.2,,6,reviewed,nc,nc
+2013-11-12T23:35:50.700Z,37.7743,-121.9452,5.9,3,Md,,54,0.02694946,0.16,nc,nc72106516,2015-01-28T06:37:24.855Z,"2km ESE of San Ramon, California",earthquake,0.1,0.1,0.2,90,reviewed,nc,nc
+2013-10-15T08:07:26.500Z,37.8827,-122.2305,7.3,3.2,Mw,,32.4,0.00898315,0.17,nc,nc72087796,2015-08-17T14:59:45.363Z,"3km ENE of Berkeley, California",earthquake,0.1,0.1,,3,reviewed,nc,nc
+2013-10-07T04:26:08.200Z,37.8837,-122.2327,7,3,Mw,,14.4,0.00898315,0.14,nc,nc72082611,2016-03-12T00:18:07.586Z,"3km ENE of Berkeley, California",earthquake,0.1,0.1,,3,reviewed,nc,nc
+2012-03-05T13:33:20.630Z,37.9255,-122.3483333,2.04,4,mh,5,214,0.1019,0.09,ci,ci15118577,2016-03-12T03:12:37.234Z,"1km S of Richmond, CA",earthquake,1.97,1.33,,0,reviewed,ci,ci
+2012-03-05T13:33:12.590Z,37.927,-122.303,8.1,3.4,ml,81,59.2,,,us,usp000jfu2,2016-02-10T18:27:35.952Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
+2012-02-16T17:13:21.420Z,38.0843333,-122.2508333,6.15,3.5,mh,5,152,0.2081,0.19,ci,ci11067789,2016-03-11T03:07:18.763Z,"3km SSW of Vallejo, CA",earthquake,1.34,16.23,,0,reviewed,ci,ci
+2012-02-16T02:09:14.920Z,38.077,-122.231,8.87,3.53,ml,5,145,0.2005,0.24,ci,ci11067581,2016-03-11T04:57:55.776Z,"3km NNW of Crockett, CA",earthquake,1.32,31.61,0.076,2,reviewed,ci,ci
+2011-11-05T21:52:19.210Z,37.846,-122.241,5.57,3.1,mh,5,206,0.03047,0.59,ci,ci15072740,2016-03-10T22:52:22.705Z,"2km NNW of Piedmont, CA",earthquake,3.81,31.61,,0,reviewed,ci,ci
+2011-10-27T12:36:44.300Z,37.873,-122.251,9.27,3.6,mh,5,204,0.01262,0.81,ci,ci11026133,2016-03-10T10:08:50.988Z,"2km E of Berkeley, CA",earthquake,6.18,31.61,,0,reviewed,ci,ci
+2011-10-26T22:44:21.000Z,37.851,-121.89,7.87,3.2,mh,0,,0.1046,,ci,ci11025933,2016-03-10T22:51:42.829Z,"4km NNE of Blackhawk, CA",earthquake,,,,0,reviewed,ci,ci
+2011-10-21T03:16:05.310Z,37.8668333,-122.3208333,1.89,3.8,mh,5,214,0.06812,0.26,ci,ci11023029,2016-03-10T17:42:15.582Z,"3km SW of Albany, CA",earthquake,1.38,1.24,,0,reviewed,ci,ci
+2011-10-20T21:41:04.510Z,37.8626667,-122.304,3.18,4,mh,5,212,0.05581,0.18,ci,ci11022869,2016-03-10T10:08:28.459Z,"3km SSW of Albany, CA",earthquake,1.46,0.97,,0,reviewed,ci,ci
+2011-09-29T23:47:54.150Z,37.779,-122.211,14.6,3.1,ml,7,155.8,,,us,usp000j8rc,2015-01-28T07:48:25.484Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
+2011-09-26T03:08:09.600Z,37.751,-122.15,7.9,3.2,mwr,8,154,,,us,usp000j8jv,2015-01-28T03:12:52.820Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
+2011-08-24T16:57:45.100Z,37.751,-122.138,8.77,3.33,ml,5,194,0.147,0.42,ci,ci10997637,2016-03-10T05:39:23.208Z,"3km NNE of San Leandro, CA",earthquake,3.51,31.61,0.043,1,reviewed,ci,ci
+2011-08-24T16:57:44.860Z,37.751,-122.138,8.77,3.5,mh,5,194,0.147,0.39,ci,ci10997645,2016-03-10T07:08:34.092Z,"3km NNE of San Leandro, CA",earthquake,6.1,31.61,,0,reviewed,ci,ci
+2011-08-24T06:36:53.910Z,37.7575,-122.2145,20.48,3.6,mh,6,210,0.1197,0.36,ci,ci10997301,2016-03-11T00:18:31.132Z,"2km ESE of Alameda, CA",earthquake,2.35,2.51,,0,reviewed,ci,ci
+2011-07-16T10:51:26.000Z,37.86,-122.257,5.77,3.3,mh,0,212,0.02344,0.21,ci,ci15018476,2016-03-10T07:05:40.604Z,"2km SE of Berkeley, CA",earthquake,1.37,3.13,,0,reviewed,ci,ci
+2011-05-22T02:04:56.900Z,37.98,-122.253,9.337,3.4,mh,0,307,0.1045,0.12,ci,ci14989172,2016-03-10T08:28:23.103Z,"4km E of El Sobrante, CA",earthquake,3.03,6.11,,0,reviewed,ci,ci
+2011-04-18T21:57:19.100Z,37.601,-122.45,9.57,3.4,mh,5,256,0.3231,0.3,ci,ci10928645,2016-03-10T00:57:13.645Z,"4km ESE of Pacifica, CA",earthquake,2.52,31.61,,0,reviewed,ci,ci
+2011-01-30T11:29:40.310Z,37.848,-122.032,6.132,3,mh,4,131,0.1636,0.37,ci,ci14924980,2016-03-10T19:00:39.829Z,"0km S of Alamo, CA",earthquake,5.95,31.61,,0,reviewed,ci,ci
+2010-09-02T16:35:33.700Z,37.969,-122.349,6.5,3.1,mwr,21,143,,,us,usp000hk2f,2015-01-28T05:26:47.081Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
+2010-09-01T01:26:55.200Z,37.987,-122.068,15.6,3,mw,4,220.7,,,us,usp000hk05,2015-01-28T11:48:54.065Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
+2010-07-23T21:29:10.100Z,37.665,-122.512,7.7,3.1,mwr,7,208.4,,,us,usp000hgma,2015-01-28T04:03:48.460Z,"offshore Northern California",earthquake,,,,,reviewed,nc,brk
+2010-06-28T14:47:04.340Z,37.742,-122.552,7.7,3.2,mwr,8,194.8,,,us,usp000henf,2015-01-28T03:26:33.914Z,"offshore Northern California",earthquake,,,,,reviewed,nc,brk
+2010-05-30T06:59:57.430Z,37.7126667,-122.1803333,16.535,3.2,mh,7,152,0.169,0.29,ci,ci14728196,2016-03-10T00:20:54.653Z,"2km WSW of San Leandro, CA",earthquake,1.08,3.28,,0,reviewed,ci,ci
+2010-05-15T17:54:42.700Z,37.701,-122.003,8.615,3.3,mh,8,106,0.2105,0.3,ci,ci10667597,2016-03-10T01:45:41.106Z,"4km ENE of Fairview, CA",earthquake,0.96,31.61,,0,reviewed,ci,ci
+2009-10-14T03:27:41.200Z,37.631,-121.875,7.541,3.7,mh,7,157,0.09413,0.24,ci,ci10480645,2016-03-08T21:43:17.732Z,"4km S of Pleasanton, CA",earthquake,1.52,2.77,,0,reviewed,ci,ci
+2009-06-08T22:15:05.700Z,37.8321667,-121.9615,5.084,3.7,mh,5,110,0.1434,0.22,ci,ci14470608,2016-03-09T17:14:08.749Z,"0km SW of Diablo, CA",earthquake,0.75,31.61,,0,reviewed,ci,ci
+2009-06-06T22:30:57.030Z,37.9048333,-122.3031667,5.554,3.3,mh,4,267,0.06062,0.42,ci,ci14469616,2016-03-09T10:22:44.131Z,"1km SSE of El Cerrito, CA",earthquake,12.74,31.61,,0,reviewed,ci,ci
+2009-05-13T22:34:05.470Z,37.8835,-122.3056667,9.595,3,mh,5,265,0.05593,0.13,ci,ci10408489,2016-03-09T04:38:38.707Z,"1km WSW of Albany, CA",earthquake,1.39,0.95,,0,reviewed,ci,ci
+2009-02-21T19:01:02.540Z,37.626,-121.95,11.8,3.2,ml,10,108.6,,,us,usp000gu8z,2015-01-28T05:41:15.200Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
+2008-10-10T23:19:10.910Z,37.837,-122.215,12.7,3.1,ml,8,87.8,,,us,usp000gjx3,2015-01-28T09:30:14.062Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
+2008-09-06T04:00:16.290Z,37.8763333,-122.0113333,14.576,4.04,ml,7,92,0.1389,0.14,ci,ci10347297,2016-03-09T10:04:38.686Z,"3km NNE of Alamo, CA",earthquake,0.7,0.96,0.172,88,reviewed,ci,ci
+2008-06-09T11:31:36.550Z,37.8263333,-122.0893333,6.776,3.1,mh,7,98,0.126,0.19,ci,ci10330413,2016-03-09T08:36:49.901Z,"4km ESE of Moraga, CA",earthquake,0.78,31.61,,0,reviewed,ci,ci
+2008-06-06T09:02:54.870Z,37.8281667,-122.0903333,6.786,3.31,ml,7,97,0.1246,0.13,ci,ci10329845,2016-03-09T14:49:43.468Z,"4km ESE of Moraga, CA",earthquake,0.64,31.61,0.218,15,reviewed,ci,ci
+2008-06-06T09:02:53.160Z,37.8741667,-122.1386667,6.433,3.19,ml,3,274,1.394,0.15,ci,ci10329849,2016-03-08T17:44:29.339Z,"2km SW of Lafayette, CA",earthquake,2.33,31.61,0.083,15,reviewed,ci,ci
+2008-03-21T01:28:21.890Z,37.7063333,-121.9633333,5.015,3.02,ml,8,100,0.1841,0.06,ci,ci10313537,2016-03-08T19:20:09.175Z,"2km W of Dublin, CA",earthquake,0.5,13.27,0.19,14,reviewed,ci,ci
+2008-03-20T23:18:54.520Z,37.708,-121.955,10.5,3,ml,4,144.2,,,us,usp000g1wd,2014-11-07T01:35:17.155Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
+2008-02-07T13:31:43.210Z,37.639,-122.485,9.6,3.1,ml,7,230.6,,,us,usp000fycr,2015-01-28T07:13:51.528Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
+2007-10-04T11:09:41.530Z,37.657,-122.061,6.3,3,md,7,155.9,,,us,usp000fpv7,2014-11-07T01:33:50.413Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
+2007-08-15T07:13:10.720Z,37.8053333,-122.2323333,3.346,3,ml,6,161,0.07081,0.1,ci,ci14313580,2016-03-09T02:37:30.945Z,"1km NNW of Oakland, CA",earthquake,0.95,1.31,0.14,15,reviewed,ci,ci
+2007-07-20T11:42:22.610Z,37.8268333,-122.2846667,9.516,3.68,ml,6,171,0.06278,0.28,ci,ci10263841,2016-03-09T05:24:46.760Z,"0km S of Emeryville, CA",earthquake,1.16,1.87,0.101,57,reviewed,ci,ci
+2007-03-02T04:40:01.700Z,37.9026667,-122.1328333,14.896,4.21,ml,6,106,,0.3,ci,ci14277512,2016-03-09T14:15:38.665Z,"2km NW of Lafayette, CA",earthquake,0.8,1.3,0.131,102,reviewed,ci,ci
+2007-02-23T23:46:15.490Z,37.866,-122.2868333,13.955,3.21,ml,5,170,,0.14,ci,ci10233041,2016-03-08T20:39:16.343Z,"1km WSW of Berkeley, CA",earthquake,0.74,1.55,0.11,20,reviewed,ci,ci
+2006-12-23T17:21:15.690Z,37.8631667,-122.2908333,4.71,3.26,ml,5,88,0.04563,0.1,ci,ci10223697,2016-03-08T23:34:22.926Z,"2km SW of Berkeley, CA",earthquake,1.27,0.97,0.223,16,reviewed,ci,ci
+2006-12-23T06:49:57.670Z,37.869,-122.2711667,10.45,3.49,ml,9,167,0.02907,0.68,ci,ci10223653,2016-03-08T22:09:07.088Z,"0km SE of Berkeley, CA",earthquake,2.74,1.99,0.16,23,reviewed,ci,ci
+2006-12-21T03:12:29.320Z,37.8605,-122.288,4.35,3.43,ml,5,84,0.04436,0.13,ci,ci10223433,2016-03-08T18:50:31.836Z,"2km SW of Berkeley, CA",earthquake,1.38,0.98,0.177,23,reviewed,ci,ci
+2006-05-25T05:38:18.570Z,37.7981667,-122.1141667,14.345,3.05,ml,7,115,0.1237,0.17,ci,ci10184989,2016-03-09T13:57:19.062Z,"4km SSE of Moraga, CA",earthquake,0.64,1.04,0.168,22,reviewed,ci,ci
+2006-03-21T21:41:43.020Z,37.8136667,-122.0995,13.205,3.62,ml,7,105,,0.09,ci,ci14218112,2016-03-09T07:54:19.290Z,"4km SE of Moraga, CA",earthquake,0.61,2.61,0.194,24,reviewed,ci,ci
+2006-03-01T19:34:52.770Z,37.8608333,-122.2366667,6.316,3.08,ml,6,69,0.01538,0.13,ci,ci14215048,2016-03-09T06:26:17.802Z,"4km ESE of Berkeley, CA",earthquake,0.94,0.78,0.187,16,reviewed,ci,ci
+2006-02-18T12:38:16.420Z,37.8286667,-122.1171667,19.276,3.17,ml,7,104,0.1051,0.13,ci,ci14213196,2016-03-09T00:44:03.299Z,"1km ESE of Moraga, CA",earthquake,0.97,2,0.203,24,reviewed,ci,ci
+2005-12-16T18:21:33.660Z,38.003,-122.253,5.8,3.4,ml,17,130,,,us,usp000e699,2015-01-28T04:20:01.725Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
+2005-09-24T11:25:16.800Z,37.83,-122.221,5.4,3.2,mwr,13,118.1,,,us,usp000e03t,2015-01-28T04:02:35.018Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
+2005-05-14T10:53:20.300Z,37.701,-121.964,10.8,3.1,ml,11,95.9,,,us,usp000dqsu,2015-01-28T09:04:44.800Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
+2005-05-08T10:35:55.300Z,37.836,-122.226,5,3.3,mwr,13,119.3,,,us,usp000dq6t,2015-01-28T04:10:43.819Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
+2004-04-26T19:14:00.830Z,37.713501,-121.8466644,15.205,3.3,mh,23,145,,0.15,ci,ci14049760,2016-02-17T13:24:16.421Z,"6km NNE of Pleasanton, California",earthquake,0.76,1.82,,0,automatic,ci,ci
+2003-12-18T00:22:42.840Z,37.795,-122.221,9.5,3.1,ml,9,114.7,,,us,usp000cffj,2015-01-28T05:09:44.522Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
+2003-10-20T17:50:10.100Z,37.8943329,-122.1794968,3.581,3.22,ml,14,87,,0.37,ci,ci13998476,2016-02-17T01:23:01.708Z,"2km N of Orinda, California",earthquake,1.22,1.64,0.314,11,reviewed,ci,ci
+2003-10-19T15:32:52.930Z,37.8904991,-122.1446686,-0.089,3.27,ml,21,73,,0.4,ci,ci13998352,2016-02-16T15:30:04.896Z,"2km WNW of Lafayette, California",earthquake,1.33,2.03,0.343,11,automatic,ci,ci
+2003-09-05T01:39:54.100Z,37.8305016,-122.2773361,5.811,3.6,ml,28,170,,0.34,ci,ci9942841,2016-04-02T04:03:22.502Z,"1km E of Emeryville, CA",earthquake,1.07,2.16,0.208,3,automatic,ci,ci
+2003-05-26T21:15:29.330Z,37.77,-122.578,8.9,3.4,ml,13,196.8,,,us,usp000by7v,2015-01-28T06:28:56.744Z,"offshore Northern California",earthquake,,,,,reviewed,nc,nc
+2003-02-02T19:02:43.270Z,37.753,-121.945,16.5,3.5,ml,23,,,,us,usp000bpvb,2015-01-28T12:01:58.418Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
+2003-02-02T18:47:38.760Z,37.748,-121.946,16.9,4.1,mw,37,,,,us,usp000bpv9,2015-01-28T06:36:48.310Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
+2003-02-02T18:22:58.290Z,37.742,-121.942,16.7,4.1,mw,38,,,,us,usp000bpv7,2015-01-28T03:07:25.766Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
+2003-02-02T16:45:18.440Z,37.738,-121.943,16.6,3,ml,14,,,,us,usp000bpv1,2015-01-28T22:17:47.366Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
+2003-02-02T16:22:52.390Z,37.746,-121.943,16.6,3.7,mw,29,,,,us,usp000bpuy,2015-01-28T07:36:31.406Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
+2003-02-02T16:19:09.000Z,37.742,-121.945,16.2,3.1,md,15,,,,us,usp000bpux,2014-11-07T01:17:44.076Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
+2002-12-24T08:22:30.800Z,37.604,-122.479,9.4,3.6,ml,14,,,,us,usp000bmah,2015-01-28T07:13:21.082Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
+2002-11-27T13:26:54.000Z,37.758,-121.946,9.9,3,ml,8,,,,us,usp000bjh7,2015-01-28T18:17:52.886Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
+2002-11-26T20:12:21.230Z,37.756,-121.95,10,3.3,ml,13,,,,us,usp000bjfd,2015-01-28T15:34:38.108Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
+2002-11-26T14:01:32.710Z,37.761,-121.947,10.9,3.1,ml,20,,,,us,usp000bjeh,2015-01-28T13:01:47.330Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
+2002-11-26T12:38:36.200Z,37.762,-121.946,10.6,3.6,ml,31,,,,us,usp000bje9,2015-01-28T06:48:55.152Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
+2002-11-25T18:22:04.280Z,37.762,-121.94,11,3.5,ml,19,,,,us,usp000bjcq,2015-01-28T08:14:44.354Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
+2002-11-25T03:57:59.250Z,37.758,-121.946,10.6,3.8,ml,31,,,,us,usp000bjbm,2015-01-28T04:50:36.950Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
+2002-11-24T14:54:23.010Z,37.76,-121.95,11.2,3.9,mwr,37,,,,us,usp000bja9,2016-02-17T04:16:04.158Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
+2002-08-22T21:47:58.870Z,37.829,-121.946,17.7,3,ml,12,,,,us,usp000baer,2014-11-07T01:16:19.370Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
+2002-03-20T07:35:12.840Z,37.596,-122.456,7.8,3.2,ml,15,,,,us,usp000b0ph,2015-01-28T10:52:53.385Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
+2001-09-06T19:38:04.050Z,37.589,-122.458,8.9,3.1,ml,9,,,,us,usp000anrp,2015-01-28T13:36:34.261Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
+2001-02-02T03:41:27.600Z,37.785,-122.167,12.5,3.5,ml,27,,,,us,usp000a8w6,2015-01-28T04:37:54.237Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
+2000-11-08T11:59:41.720Z,38.127,-122.165,9.3,3,md,20,,,,us,usp000a37b,2015-01-28T15:32:00.580Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
+2000-07-15T11:56:38.980Z,37.975,-122.034,15.3,3.7,mwr,24,,,,us,usp0009wju,2015-01-28T10:44:07.809Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
+2000-04-14T17:49:25.620Z,37.604,-121.971,9.9,3.2,ml,,,,,us,usp0009r9x,2014-11-07T01:09:53.970Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
+2000-04-14T12:22:31.770Z,37.983,-122.043,15.8,3.3,mwr,,,,,us,usp0009r9k,2014-11-07T01:09:53.931Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
+2000-03-28T21:03:07.300Z,37.631,-122.019,5.8,3.3,ml,,,,,us,usp0009qcq,2015-01-28T15:05:11.668Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
+1999-08-18T01:06:18.950Z,37.907,-122.686,7,4.5,mwr,,,,,us,usp0009d8m,2015-01-28T04:53:21.379Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
+1998-12-13T21:14:43.210Z,37.91,-121.992,11.3,3,md,,,,,us,usp0008zk2,2014-11-07T01:06:39.034Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
+1998-12-04T12:16:07.770Z,37.92,-122.287,6.9,3.9,mwr,,,,,us,usp0008z5g,2014-11-07T01:06:35.949Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
+1998-03-14T10:52:27.950Z,37.377,-122.266,9.6,3,ml,,,,,us,usp0008hfm,2014-11-07T01:04:45.924Z,"Northern California",earthquake,,,,,reviewed,nc,brk
+1998-03-13T13:04:01.410Z,37.754,-122.115,11.9,3.1,md,,,,,us,usp0008he3,2014-11-07T01:04:45.591Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
+1997-11-19T21:05:17.950Z,37.617,-122.015,4.5,3.3,ml,,,,,us,usp0008azw,2014-11-07T01:03:56.108Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
+1997-10-27T14:30:50.660Z,37.726,-122.547,9.9,3.1,ml,,,,,us,usp00089pb,2014-11-07T01:03:46.468Z,"offshore Northern California",earthquake,,,,,reviewed,nc,us
+1997-08-31T00:24:13.990Z,37.736,-122.09,9.4,3,ml,,,,,us,usp00086xs,2014-11-07T01:03:21.724Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
+1997-08-14T08:53:35.630Z,37.736,-122.547,1.6,3,ml,,,,,us,usp0008675,2014-11-07T01:03:18.688Z,"offshore Northern California",earthquake,,,,,reviewed,nc,brk
+1997-07-09T16:14:47.660Z,37.934,-122.026,11.8,3,md,,,,,us,usp00084kv,2014-11-07T01:03:06.953Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
+1997-05-02T12:31:05.610Z,37.707,-122.516,5,3.2,ml,,,,,us,usp00081ms,2014-11-07T01:02:43.037Z,"offshore Northern California",earthquake,,,,,reviewed,nc,brk
+1997-03-11T06:33:53.400Z,37.714,-122.567,3.813,3.6,ml,0,0,,0,ci,ci7061748,2016-02-12T11:26:17.212Z,"8km WNW of Broadmoor, California",earthquake,,,,0,reviewed,ci,ci
+1997-03-11T06:30:16.300Z,37.712,-122.567,4.557,3.6,ml,0,0,,0,ci,ci7061746,2016-02-12T19:14:31.444Z,"8km WNW of Broadmoor, California",earthquake,,,,0,reviewed,ci,ci
+1996-07-01T04:33:05.080Z,37.713,-122.546,10.9,3.4,ml,,,,,us,usp0007kj1,2014-11-07T01:00:43.489Z,"offshore Northern California",earthquake,,,,,reviewed,nc,brk
+1995-12-01T23:11:28.900Z,37.929,-122.29,9.557,3.6,ml,0,0,,0,ci,ci3245360,2016-02-11T22:28:27.668Z,"2km NNW of Kensington, California",earthquake,,,,0,reviewed,ci,ci
+1995-09-05T16:31:11.300Z,37.907,-121.974,15.557,3.3,md,0,0,,0,ci,ci3229467,2016-02-12T03:16:12.590Z,"5km SW of Clayton, California",earthquake,,,,0,reviewed,ci,ci
+1995-09-05T16:29:47.200Z,37.908,-121.976,15.557,3.2,md,0,0,,0,ci,ci3229465,2016-02-12T05:43:08.062Z,"5km SW of Clayton, California",earthquake,,,,0,reviewed,ci,ci
+1995-03-15T08:22:58.800Z,37.924,-122.295,4.557,3.2,ml,0,0,,0,ci,ci3206648,2016-02-12T18:09:33.936Z,"2km ENE of El Cerrito, California",earthquake,,,,0,reviewed,ci,ci
+1995-01-25T04:19:32.730Z,37.773,-121.935,10,3,ml,,,,,us,usp0006rv3,2014-11-07T00:57:10.871Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,gs$
+1994-06-26T08:42:50.200Z,37.917,-122.289,6.557,4.2,ml,0,0,,0,ci,ci3173838,2016-02-13T08:57:26.635Z,"1km NW of Kensington, California",earthquake,,,,0,reviewed,ci,ci
+1994-06-26T08:30:35.300Z,37.918,-122.29,6.557,3.1,ml,0,0,,0,ci,ci3173836,2016-02-13T06:23:24.302Z,"1km NW of Kensington, California",earthquake,,,,0,reviewed,ci,ci
+1994-03-14T21:54:18.340Z,37.792,-121.939,11.6,3.1,ml,,,,,us,usp00069qc,2014-11-07T00:55:09.058Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,gs$
+1994-01-02T03:11:18.230Z,37.769,-122.585,11.3,3,ml,,,,,us,usp00065xp,2014-11-07T00:54:42.128Z,"offshore Northern California",earthquake,,,,,reviewed,nc,brk
+1993-11-24T15:18:07.990Z,37.768,-122.59,11.8,3.2,ml,,,,,us,usp000645f,2014-11-07T00:54:27.049Z,"offshore Northern California",earthquake,,,,,reviewed,nc,brk
+1993-09-19T21:10:09.600Z,38.116,-122.452,7.712,3.6,ml,0,0,2.256,0,ci,ci3122962,2016-02-10T02:57:29.248Z,"5km E of Black Point-Green Point, California",earthquake,,,,0,reviewed,ci,ci
+1993-09-19T20:49:06.500Z,38.117,-122.453,7.712,3.6,ml,0,0,,0,ci,ci3122959,2016-02-10T10:06:15.048Z,"5km E of Black Point-Green Point, California",earthquake,,,,0,reviewed,ci,ci
+1993-09-19T20:28:35.050Z,38.116,-122.45,9,3,ml,,,,,us,usp00060n6,2014-11-07T00:53:59.340Z,"San Pablo Bay, California",earthquake,,,,,reviewed,nc,brk
+1993-05-08T13:48:19.700Z,37.935,-121.982,10,3,ml,,,,,us,usp0005se9,2014-11-07T00:52:59.041Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1993-01-15T11:13:49.400Z,37.92,-122.288,5,3.2,ml,,,,,us,usp0005ktk,2014-11-07T00:52:14.218Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1992-12-20T21:05:21.200Z,37.745,-122.143,1.813,3.7,ml,0,0,,0,ci,ci3084048,2016-02-10T05:40:29.536Z,"2km NNE of San Leandro, California",earthquake,,,,0,reviewed,ci,ci
+1991-12-17T18:13:40.500Z,37.932,-122.292,5,3.1,ml,,,,,us,usp00050kn,2014-11-07T00:49:45.172Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1990-10-14T02:06:21.500Z,38.048,-122.227,9,3.6,ml,,,,,us,usp0004fr5,2014-11-07T00:47:16.764Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1990-09-26T02:53:55.800Z,37.38,-122.182,8,3.6,ml,,,,,us,usp0004f2g,2014-11-07T00:47:08.259Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1990-09-23T13:35:47.600Z,37.395,-122.163,4,3.3,ml,,,,,us,usp0004ezq,2014-11-07T00:47:07.919Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1990-08-25T11:47:30.300Z,37.855,-122.24,4,3.5,ml,,,,,us,usp0004dvv,2014-11-07T00:46:59.302Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1990-05-06T01:37:02.700Z,37.855,-122.01,5,3.1,ml,,,,,us,usp00048xg,2014-11-07T00:46:18.642Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1990-04-28T05:45:04.200Z,37.87,-122.018,7,3.4,ml,,,,,us,usp00048k3,2014-11-07T00:46:12.266Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1990-04-28T04:47:41.800Z,37.863,-122.003,5,4.2,mb,,,,,us,usp00048k1,2014-11-07T00:46:12.260Z,"San Francisco Bay area, California",earthquake,,,,5,reviewed,brk,us
+1990-04-28T04:41:48.000Z,37.885,-121.983,6,4.3,mb,,,,,us,usp00048k0,2014-11-07T00:46:12.257Z,"San Francisco Bay area, California",earthquake,,,,5,reviewed,brk,us
+1990-04-07T04:46:08.500Z,37.882,-121.963,3,3,ml,,,,,us,usp00047m3,2014-11-07T00:46:08.157Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1990-04-07T02:59:34.200Z,37.883,-121.96,4,3.1,ml,,,,,us,usp00047ky,2014-11-07T00:46:08.147Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1990-04-07T02:51:12.600Z,37.872,-121.98,3,3.4,ml,,,,,us,usp00047kw,2014-11-07T00:46:08.142Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1990-04-07T02:41:12.500Z,37.872,-121.985,1,3.1,ml,,,,,us,usp00047ku,2014-11-07T00:46:08.126Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1990-04-07T02:39:18.200Z,37.872,-121.985,1,4.5,mb,,,,,us,usp00047kt,2014-11-07T00:46:08.120Z,"San Francisco Bay area, California",earthquake,,,,9,reviewed,brk,us
+1990-04-06T22:43:37.500Z,37.882,-121.982,8,3,ml,,,,,us,usp00047kf,2014-11-07T00:46:08.089Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1990-04-06T22:41:27.200Z,37.87,-121.992,5,3.7,ml,,,,,us,usp00047ke,2014-11-07T00:46:08.087Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1990-04-06T20:55:53.600Z,37.868,-121.998,3,3.5,ml,,,,,us,usp00047k7,2014-11-07T00:46:08.055Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1989-11-06T23:37:24.500Z,37.642,-122.488,9,3.3,ml,,,,,us,usp00041tw,2014-11-07T00:45:11.403Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1989-11-04T07:16:04.900Z,37.775,-122.155,9,3.6,ml,,,,,us,usp00041qd,2014-11-07T00:45:10.518Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1989-05-09T18:55:40.400Z,37.388,-122.172,7,3,ml,,,,,us,usp0003v37,2014-11-07T00:44:10.238Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1989-02-13T08:01:41.900Z,37.838,-122.603,8,3.6,ml,,,,,us,usp0003rv3,2014-11-07T00:43:36.070Z,"offshore Northern California",earthquake,,,,,reviewed,brk,brk
+1989-02-13T06:41:41.100Z,37.743,-122.13,5,3.1,ml,,,,,us,usp0003rv1,2014-11-07T00:43:36.065Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1989-02-13T06:00:28.600Z,37.843,-122.605,6,3,ml,,,,,us,usp0003rv0,2014-11-07T00:43:36.063Z,"offshore Northern California",earthquake,,,,,reviewed,brk,brk
+1989-02-12T19:49:05.800Z,37.833,-122.602,7,3.1,ml,,,,,us,usp0003rug,2014-11-07T00:43:35.996Z,"offshore Northern California",earthquake,,,,,reviewed,brk,brk
+1988-11-16T02:24:14.100Z,37.37,-122.272,11,3.2,ml,,,,,us,usp0003nwh,2014-11-07T00:43:06.466Z,"Northern California",earthquake,,,,,reviewed,brk,brk
+1988-11-14T19:52:58.400Z,37.367,-122.273,11,3.5,ml,,,,,us,usp0003nv7,2014-11-07T00:43:06.304Z,"Northern California",earthquake,,,,,reviewed,brk,brk
+1988-11-14T19:21:47.500Z,37.367,-122.273,11,3.7,ml,,,,,us,usp0003nv5,2014-11-07T00:43:06.300Z,"Northern California",earthquake,,,,,reviewed,brk,brk
+1988-11-14T18:58:06.000Z,37.363,-122.278,11,3.1,ml,,,,,us,usp0003nv4,2014-11-07T00:43:06.299Z,"Northern California",earthquake,,,,,reviewed,brk,brk
+1987-12-30T01:09:10.900Z,37.782,-122.585,11,3.1,ml,,,,,us,usp0003bnd,2014-11-07T00:41:25.401Z,"offshore Northern California",earthquake,,,,,reviewed,brk,brk
+1987-10-30T23:10:42.700Z,37.907,-122.298,5,3.2,ml,,,,,us,usp00039s0,2014-11-07T00:41:08.025Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1987-10-08T16:20:23.600Z,37.848,-122.233,4,3,ml,,,,,us,usp000392w,2014-11-07T00:41:04.291Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1987-09-19T18:33:59.300Z,37.785,-122.577,12,3.3,ml,,,,,us,usp00038hh,2014-11-07T00:40:57.353Z,"offshore Northern California",earthquake,,,,,reviewed,brk,brk
+1987-08-28T05:16:33.800Z,37.923,-122.29,8,3.4,ml,,,,,us,usp00037w9,2014-11-07T00:40:50.071Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1987-08-21T05:40:23.200Z,37.733,-122.115,7,3.1,ml,,,,,us,usp00037pa,2014-11-07T00:40:49.318Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1987-07-02T11:03:26.500Z,37.932,-122.04,7,3.5,ml,,,,,us,usp000368q,2014-11-07T00:40:36.799Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1987-05-31T03:34:50.200Z,37.735,-122.123,3,3.2,ml,,,,,us,usp00035dk,2014-11-07T00:40:27.336Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1987-05-26T07:59:40.400Z,37.752,-122.133,3,3,ml,,,,,us,usp0003592,2014-11-07T00:40:26.807Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1987-05-26T07:01:12.200Z,37.755,-122.132,4,3.4,ml,,,,,us,usp000358x,2014-11-07T00:40:26.794Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1987-05-11T06:45:47.500Z,37.803,-122.175,4,4.3,ml,,,,,us,usp00034wy,2014-11-07T00:40:24.304Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1987-02-01T17:53:19.000Z,37.71,-122.515,9,3.5,ml,,,,,us,usp000323q,2014-11-07T00:39:44.534Z,"offshore Northern California",earthquake,,,,,reviewed,brk,brk
+1987-02-01T14:51:51.300Z,37.717,-122.525,9,3,ml,,,,,us,usp000323j,2014-11-07T00:39:44.463Z,"offshore Northern California",earthquake,,,,,reviewed,brk,brk
+1987-01-30T01:34:44.800Z,37.732,-122.145,9,3.5,ml,,,,,us,usp0003215,2014-11-07T00:39:41.296Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1986-11-02T03:46:14.500Z,37.638,-122.483,9,3,ml,,,,,us,usp0002zkp,2014-11-07T00:39:17.058Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1986-10-11T06:39:38.100Z,37.825,-121.952,6,3,ml,,,,,us,usp0002yuu,2014-11-07T00:39:08.683Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1986-10-11T05:17:36.200Z,37.842,-121.94,7,4.7,ml,,,,,us,usp0002yut,2014-11-07T00:39:08.680Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1986-05-14T00:30:09.600Z,37.363,-122.262,14,3.4,ml,,,,,us,usp0002tza,2014-11-07T00:38:23.537Z,"Northern California",earthquake,,,,,reviewed,brk,brk
+1986-03-29T16:24:04.200Z,37.877,-122.203,9,4,ml,,,,,us,usp0002sdz,2014-11-07T00:38:06.405Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1986-03-09T01:28:13.000Z,37.672,-122.498,7,3.1,ml,,,,,us,usp0002rnz,2014-11-07T00:38:01.995Z,"offshore Northern California",earthquake,,,,,reviewed,brk,brk
+1985-09-04T06:00:46.700Z,37.752,-122.09,6,3,ml,,,,,us,usp0002jdm,2014-11-07T00:37:07.185Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1985-08-13T16:45:15.100Z,37.847,-122.22,5,3.1,ml,,,,,us,usp0002hpy,2014-11-07T00:37:00.723Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1984-06-25T10:13:24.100Z,37.728,-122.152,7,3.2,ml,,,,,us,usp0002594,2014-11-07T00:35:04.752Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1984-03-27T03:36:35.600Z,37.727,-122.13,7,4.3,mb,,,,,us,usp0002314,2014-11-07T00:34:40.101Z,"San Francisco Bay area, California",earthquake,,,,4,reviewed,brk,us
+1983-11-19T22:52:51.100Z,37.665,-122.003,10,3,ml,,,,,us,usp0001zy4,2014-11-07T00:34:08.833Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1983-06-04T11:25:11.600Z,37.713,-122.13,6,4,ml,,,,,us,usp0001vww,2014-11-07T00:33:17.220Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1983-06-02T00:32:40.290Z,37.78,-121.982,5,3,ml,,,,0.3,us,usp0001vva,2014-11-07T00:33:16.121Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,us,us
+1983-02-04T16:12:12.900Z,37.578,-121.972,9,3,ml,,,,,us,usp0001suc,2014-11-07T00:32:38.080Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1982-08-21T14:31:26.400Z,37.677,-121.967,10,3.3,ml,,,,,us,usp0001p66,2014-11-07T00:31:47.138Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1982-03-26T13:24:00.200Z,37.797,-122.208,4,3.1,ml,,,,,us,usp0001kc5,2014-11-07T00:31:02.066Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1982-01-19T07:13:09.300Z,37.828,-122.232,10,3.3,ml,,,,,us,usp0001j4b,2014-11-07T00:30:41.429Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
+1981-12-12T15:11:09.100Z,37.383,-122.275,9,3.8,ml,,,,,us,usp0001hcp,2014-11-07T00:30:31.179Z,"Northern California",earthquake,,,,,reviewed,brk,brk
+1981-03-03T10:45:12.800Z,37.548,-121.945,8,4.2,mb,,,,,us,usp0001cgc,2014-11-07T00:29:00.884Z,"San Francisco Bay area, California",earthquake,,,,3,reviewed,brk,us
+1981-01-05T02:52:17.900Z,37.957,-122.06,8,3,ml,,,,,us,usp0001bkw,2014-11-06T23:24:28.544Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
+1980-12-31T12:16:29.400Z,37.705,-122.118,11,3.5,ml,,,,,us,usp0001bhv,2014-11-06T23:24:28.483Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
+1980-11-02T23:39:24.600Z,37.883,-122.248,5,3.1,ml,,,,,us,usp0001an4,2014-11-06T23:24:27.055Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
+1980-10-02T12:47:01.700Z,37.995,-122.068,17,3.1,ml,,,,,us,usp0001a26,2014-11-06T23:24:26.262Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
+1980-08-24T12:41:15.440Z,37.6768333,-121.844,6,4.18,ml,11,282,,0.48,ci,ci3304814,2016-04-02T14:06:11.869Z,"3km ENE of Pleasanton, CA",earthquake,7.65,31.61,0.138,16,reviewed,ci,ci
+1980-07-06T12:04:45.800Z,37.978,-122.078,10,3.1,ml,,,,,us,usp00018pp,2014-11-06T23:24:24.088Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
+1980-04-07T05:17:30.600Z,37.843,-122.24,6,3.5,ml,,,,,us,usp00016g9,2014-11-06T23:24:20.200Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
+1980-01-27T10:57:56.930Z,38,-122,6,3.91,ml,39,308,3.038,1.59,ci,ci3325511,2016-04-02T04:26:59.718Z,"4km NNE of Concord, CA",earthquake,99,31.61,0.114,7,reviewed,ci,ci
+1980-01-27T02:33:29.860Z,38,-122,6,5.28,ml,15,312,3.038,0.68,ci,ci3325503,2016-10-26T00:42:39.716Z,"4km NNE of Concord, CA",earthquake,99,31.61,0.088,10,reviewed,ci,ci
+1980-01-25T05:24:34.460Z,38,-122,6,4.51,ml,10,312,3.142,2.91,ci,ci12323111,2016-02-03T04:12:41.650Z,"4km NNE of Concord, CA",earthquake,99,31.61,0.123,20,reviewed,ci,ci
+1980-01-25T05:12:42.810Z,38,-122,6,4.47,ml,11,312,3.038,8.79,ci,ci3325470,2016-02-02T18:54:02.050Z,"4km NNE of Concord, CA",earthquake,99,31.61,0.187,20,reviewed,ci,ci
+1980-01-24T19:56:05.100Z,37.847,-121.843,14,3.7,ml,,,,,us,usp000155m,2014-11-06T23:24:17.054Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
+1979-08-13T19:18:46.800Z,37.863,-122.168,9,3.5,ml,,,,,us,usp00012dc,2014-11-06T23:22:04.751Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
+1979-07-10T08:23:23.200Z,37.863,-121.975,17,3.7,ml,,,,,us,usp00011sw,2014-11-06T23:22:03.752Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
+1979-07-03T13:25:45.500Z,37.597,-121.983,8,3.4,ml,,,,,us,usp00011pr,2014-11-06T23:22:03.605Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
+1978-07-31T09:15:44.500Z,37.718,-122.122,5,3.1,ml,,,,,us,usp0000vvc,2014-11-06T23:21:51.030Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
+1977-11-01T04:06:43.400Z,37.708,-122.558,2,3.3,ml,,,,,us,usp0000rb1,2014-11-06T23:21:45.035Z,"offshore Northern California",earthquake,,,,,reviewed,b,brk
+1977-08-14T14:25:34.800Z,37.737,-121.922,9,3.4,ml,,,,,us,usp0000q3b,2014-11-06T23:21:43.504Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
+1977-07-19T23:50:30.600Z,38.05,-121.99,2,3.5,ml,,,,,us,usp0000pt4,2014-11-06T23:21:43.034Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
+1977-03-01T21:08:46.100Z,37.838,-122.058,9,3,ml,,,,,us,usp0000ms8,2014-11-06T23:21:40.028Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
+1977-01-09T05:34:16.600Z,37.897,-122.193,10,3.2,ml,,,,,us,usp0000m4b,2014-11-06T23:21:39.280Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
+1977-01-08T09:51:55.300Z,37.917,-122.2,9,3.1,ml,,,,,us,usp0000m3z,2014-11-06T23:21:39.270Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
+1977-01-08T09:43:59.000Z,37.912,-122.197,10,3,ml,,,,,us,usp0000m3y,2014-11-06T23:21:39.269Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
+1977-01-08T09:39:40.700Z,37.912,-122.197,10,4,ml,,,,,us,usp0000m3x,2014-11-06T23:21:39.269Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
+1977-01-08T09:38:07.400Z,37.912,-122.197,10,4.8,mb,,,,,us,usp0000m3w,2015-03-25T16:30:11.778Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,us
+1977-01-08T08:58:13.800Z,37.907,-122.195,10,4.1,ml,,,,,us,usp0000m3v,2014-11-06T23:21:39.267Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
+1977-01-08T07:17:33.800Z,37.903,-122.197,10,3,ml,,,,,us,usp0000m3t,2014-11-06T23:21:39.265Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
+1976-10-15T01:35:31.800Z,38.012,-122.053,19,3.4,ml,,,,,us,usp0000jvg,2014-11-06T23:21:37.715Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
+1976-08-20T22:08:01.100Z,37.763,-121.912,2,3.9,ml,,,,,us,usp0000hz6,2014-11-06T23:21:36.834Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
+1976-08-20T22:05:52.900Z,37.793,-121.97,7,4,ml,,,,,us,usp0000hz5,2014-11-06T23:21:36.834Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
+1976-08-15T12:29:04.600Z,37.808,-121.928,5,3.1,ml,,,,,us,usp0000hun,2014-11-06T23:21:36.708Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,us,brk
+1975-12-07T18:59:10.100Z,37.965,-122.363,6,3.1,mb,,,,,us,usp0000duu,2014-11-06T23:21:32.889Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,us
+1975-06-22T00:12:35.400Z,37.34,-122.33,12,3.5,ml,,,,,us,usp0000bps,2014-11-06T23:21:30.964Z,"Northern California",earthquake,,,,,reviewed,b,brk
+1975-06-20T05:34:00.600Z,37.338,-122.325,11,3.3,ml,,,,,us,usp0000bnx,2014-11-06T23:21:30.948Z,"Northern California",earthquake,,,,,reviewed,b,brk
+1975-06-19T16:17:53.100Z,37.351,-122.309,11,3.5,ml,,,,,us,usp0000bnr,2014-11-06T23:21:30.944Z,"Northern California",earthquake,,,,,reviewed,b,brk
+1975-04-18T01:41:32.400Z,37.943,-122.322,9,3.3,ml,,,,,us,usp0000anr,2014-11-06T23:21:29.806Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
+1975-02-17T04:57:49.200Z,37.892,-121.988,10,3.1,ml,,,,,us,usp00009y6,2014-11-06T23:21:28.902Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
+1974-12-29T09:51:44.900Z,37.96,-122.362,4,3.1,mb,,,,,us,usp000099w,2014-11-06T23:21:28.053Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,us
+1957-03-22T19:44:22.000Z,37.557,-122.724,15,5.7,mw,,,,,iscgem,iscgem886234,2015-05-13T18:52:51.000Z,"offshore Northern California",earthquake,,,,,automatic,iscgem,iscgem
+1906-04-18T13:12:27.000Z,38.056,-122.403,10,7.7,mw,,,,,iscgem,iscgem16957905,2015-05-13T18:52:41.000Z,"San Pablo Bay, California",earthquake,,,,,automatic,iscgem,iscgem
