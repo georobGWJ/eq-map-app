@@ -1,240 +1,165 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2016-09-13T07:50:22.080Z,37.8046667,-122.1975,4.02,3.54,mw,236,12,0.01025,0.14,nc,nc72694726,2016-10-22T12:22:59.040Z,"3km SE of Piedmont, California",earthquake,0.08,0.13,,5,reviewed,nc,nc
-2015-11-04T22:54:54.470Z,37.7781667,-121.9638333,9.24,3.1,mw,119,52,0.01215,0.11,nc,nc72548525,2016-01-30T02:11:08.040Z,"1km E of San Ramon, California",earthquake,0.11,0.15,,4,reviewed,nc,nc
-2015-10-28T00:07:33.410Z,37.7775,-121.9635,8.98,3.13,ml,118,52,0.01286,0.09,nc,nc72545010,2016-01-22T23:41:20.040Z,"1km ESE of San Ramon, California",earthquake,0.1,0.16,0.17,66,reviewed,nc,nc
-2015-10-24T07:44:07.040Z,37.7831667,-121.9691667,9.6,3.21,mw,157,30,0.005879,0.21,nc,nc72542920,2016-01-22T23:41:13.040Z,"0km ENE of San Ramon, California",earthquake,0.16,0.22,,4,reviewed,nc,nc
-2015-10-24T07:43:46.260Z,37.781,-121.9668333,9.24,3.21,mw,166,53,0.008554,0.16,nc,nc72542915,2016-01-22T23:41:13.040Z,"0km E of San Ramon, California",earthquake,0.12,0.18,,4,reviewed,nc,nc
-2015-10-23T13:48:24.590Z,37.7825,-121.9655,8.7,3.23,mw,133,53,0.007781,0.12,nc,nc72542520,2016-01-22T23:41:11.040Z,"1km ENE of San Ramon, California",earthquake,0.11,0.17,,4,reviewed,nc,nc
-2015-10-19T23:21:17.680Z,37.7918333,-121.9635,7.4,3.6,mw,161,56,0.00684,0.15,nc,nc72540765,2016-09-13T08:05:03.635Z,"1km NE of San Ramon, California",earthquake,0.1,0.1,,5,reviewed,nc,nc
-2015-10-18T22:31:28.150Z,37.7898333,-121.9643333,8.62,3.26,mw,131,55,0.005574,0.14,nc,nc72540130,2016-01-15T20:51:09.040Z,"1km NE of San Ramon, California",earthquake,0.11,0.16,,4,reviewed,nc,nc
-2015-10-15T13:10:20.920Z,37.7861667,-121.9643333,8.52,3.36,mw,159,39,0.006087,0.14,nc,nc72537675,2016-01-15T20:50:40.040Z,"1km ENE of San Ramon, California",earthquake,0.1,0.14,,4,reviewed,nc,nc
-2015-10-14T10:58:41.190Z,37.7853333,-121.9636667,7.96,3.08,mw,119,54,0.006944,0.1,nc,nc72536565,2016-01-11T21:07:26.040Z,"1km ENE of San Ramon, California",earthquake,0.1,0.14,,3,reviewed,nc,nc
-2015-08-17T13:49:17.320Z,37.8366667,-122.2321667,4.69,4.01,mw,270,12,0.01169,0.15,nc,nc72507396,2016-09-13T15:56:36.820Z,"1km N of Piedmont, California",earthquake,0.08,0.11,,9,reviewed,nc,nc
-2015-08-09T20:26:10.620Z,37.7861667,-122.5913333,10.36,3.12,ml,195,89,0.0649,0.1,nc,nc72503636,2016-01-22T19:39:54.450Z,"11km SSW of Tamalpais-Homestead Valley, California",earthquake,0.11,0.23,0.21,69,reviewed,nc,nc
-2015-07-21T09:41:14.480Z,37.5776667,-121.974,8.37,3.98,mw,282,16,0.008754,0.17,nc,nc72490826,2016-10-26T08:16:49.412Z,"3km NNE of Fremont, California",earthquake,0.08,0.12,,4,reviewed,nc,nc
-2015-05-06T14:32:04.070Z,37.9661667,-122.0433333,12.12,3.51,mw,197,36,0.008952,0.19,nc,nc72444186,2016-01-27T22:32:39.124Z,"1km NNE of Pleasant Hill, California",earthquake,0.12,0.18,,4,reviewed,nc,nc
-2015-05-06T14:01:47.420Z,37.958,-122.0505,13.91,3.03,ml,188,36,0.02205,0.22,nc,nc72444161,2016-01-22T04:40:04.470Z,"1km NE of Pleasant Hill, California",earthquake,0.14,0.23,0.223,66,reviewed,nc,nc
-2015-05-03T22:13:19.500Z,37.9665,-122.0436667,13.14,3.64,mw,267,30,0.01364,0.21,nc,nc72439615,2016-01-27T22:31:36.930Z,"2km SW of Concord, California",earthquake,0.14,0.18,,3,reviewed,nc,nc
-2015-04-02T07:06:03.870Z,37.792,-121.9868333,9.89,3.61,mw,232,45,0.005873,0.14,nc,nc72424876,2016-09-13T08:17:20.672Z,"1km NNW of San Ramon, California",earthquake,0.09,0.12,,6,reviewed,nc,nc
-2015-03-10T17:07:23.640Z,37.7466667,-122.1441667,4.77,3.04,mw,102,18,0.03788,0.11,nc,nc72408845,2015-07-21T10:33:22.199Z,"2km NNE of San Leandro, California",earthquake,0.09,0.19,,5,reviewed,nc,nc
-2014-08-26T12:33:22.230Z,38.1661667,-122.2998333,10.44,3.73,ml,7,163,0.04861,0.05,nc,nc71095504,2015-07-27T22:34:43.529Z,"3km WSW of American Canyon, California",earthquake,1.69,0.81,0.119,13,reviewed,nc,nc
-2014-08-26T12:33:16.840Z,38.1785,-122.3008333,12.62,3.9,mw,260,41,0.05933,0.15,nc,nc72284586,2015-07-27T23:01:02.931Z,"3km W of American Canyon, California",earthquake,0.11,0.16,,7,reviewed,nc,nc
-2014-08-24T10:20:44.070Z,38.2151667,-122.3123333,11.12,6.02,mw,369,28,0.03579,0.18,nc,nc72282711,2016-08-09T16:24:31.095Z,"South Napa Earthquake",earthquake,0.11,0.15,,0,reviewed,nc,nc
-2014-06-29T01:51:34.700Z,37.8123,-122.9528,8.2,3.1,Ml,172,140.4,0.11678099,0.15,nc,nc72245946,2015-01-29T02:48:42.572Z,"25km WSW of Bolinas, California",earthquake,0.2,0.3,0.2,60,reviewed,nc,nc
-2013-11-13T17:30:30.500Z,37.7863,-121.9658,10.3,3.3,Mw,,54,0.00898315,0.13,nc,nc72106876,2016-03-12T02:13:24.499Z,"1km ENE of San Ramon, California",earthquake,0.1,0.2,,6,reviewed,nc,nc
-2013-11-12T23:35:50.700Z,37.7743,-121.9452,5.9,3,Md,,54,0.02694946,0.16,nc,nc72106516,2015-01-28T06:37:24.855Z,"2km ESE of San Ramon, California",earthquake,0.1,0.1,0.2,90,reviewed,nc,nc
-2013-10-15T08:07:26.500Z,37.8827,-122.2305,7.3,3.2,Mw,,32.4,0.00898315,0.17,nc,nc72087796,2015-08-17T14:59:45.363Z,"3km ENE of Berkeley, California",earthquake,0.1,0.1,,3,reviewed,nc,nc
-2013-10-07T04:26:08.200Z,37.8837,-122.2327,7,3,Mw,,14.4,0.00898315,0.14,nc,nc72082611,2016-03-12T00:18:07.586Z,"3km ENE of Berkeley, California",earthquake,0.1,0.1,,3,reviewed,nc,nc
-2012-03-05T13:33:20.630Z,37.9255,-122.3483333,2.04,4,mh,5,214,0.1019,0.09,ci,ci15118577,2016-03-12T03:12:37.234Z,"1km S of Richmond, CA",earthquake,1.97,1.33,,0,reviewed,ci,ci
-2012-03-05T13:33:12.590Z,37.927,-122.303,8.1,3.4,ml,81,59.2,,,us,usp000jfu2,2016-02-10T18:27:35.952Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
-2012-02-16T17:13:21.420Z,38.0843333,-122.2508333,6.15,3.5,mh,5,152,0.2081,0.19,ci,ci11067789,2016-03-11T03:07:18.763Z,"3km SSW of Vallejo, CA",earthquake,1.34,16.23,,0,reviewed,ci,ci
-2012-02-16T02:09:14.920Z,38.077,-122.231,8.87,3.53,ml,5,145,0.2005,0.24,ci,ci11067581,2016-03-11T04:57:55.776Z,"3km NNW of Crockett, CA",earthquake,1.32,31.61,0.076,2,reviewed,ci,ci
-2011-11-05T21:52:19.210Z,37.846,-122.241,5.57,3.1,mh,5,206,0.03047,0.59,ci,ci15072740,2016-03-10T22:52:22.705Z,"2km NNW of Piedmont, CA",earthquake,3.81,31.61,,0,reviewed,ci,ci
-2011-10-27T12:36:44.300Z,37.873,-122.251,9.27,3.6,mh,5,204,0.01262,0.81,ci,ci11026133,2016-03-10T10:08:50.988Z,"2km E of Berkeley, CA",earthquake,6.18,31.61,,0,reviewed,ci,ci
-2011-10-26T22:44:21.000Z,37.851,-121.89,7.87,3.2,mh,0,,0.1046,,ci,ci11025933,2016-03-10T22:51:42.829Z,"4km NNE of Blackhawk, CA",earthquake,,,,0,reviewed,ci,ci
-2011-10-21T03:16:05.310Z,37.8668333,-122.3208333,1.89,3.8,mh,5,214,0.06812,0.26,ci,ci11023029,2016-03-10T17:42:15.582Z,"3km SW of Albany, CA",earthquake,1.38,1.24,,0,reviewed,ci,ci
-2011-10-20T21:41:04.510Z,37.8626667,-122.304,3.18,4,mh,5,212,0.05581,0.18,ci,ci11022869,2016-03-10T10:08:28.459Z,"3km SSW of Albany, CA",earthquake,1.46,0.97,,0,reviewed,ci,ci
-2011-09-29T23:47:54.150Z,37.779,-122.211,14.6,3.1,ml,7,155.8,,,us,usp000j8rc,2015-01-28T07:48:25.484Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
-2011-09-26T03:08:09.600Z,37.751,-122.15,7.9,3.2,mwr,8,154,,,us,usp000j8jv,2015-01-28T03:12:52.820Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
-2011-08-24T16:57:45.100Z,37.751,-122.138,8.77,3.33,ml,5,194,0.147,0.42,ci,ci10997637,2016-03-10T05:39:23.208Z,"3km NNE of San Leandro, CA",earthquake,3.51,31.61,0.043,1,reviewed,ci,ci
-2011-08-24T16:57:44.860Z,37.751,-122.138,8.77,3.5,mh,5,194,0.147,0.39,ci,ci10997645,2016-03-10T07:08:34.092Z,"3km NNE of San Leandro, CA",earthquake,6.1,31.61,,0,reviewed,ci,ci
-2011-08-24T06:36:53.910Z,37.7575,-122.2145,20.48,3.6,mh,6,210,0.1197,0.36,ci,ci10997301,2016-03-11T00:18:31.132Z,"2km ESE of Alameda, CA",earthquake,2.35,2.51,,0,reviewed,ci,ci
-2011-07-16T10:51:26.000Z,37.86,-122.257,5.77,3.3,mh,0,212,0.02344,0.21,ci,ci15018476,2016-03-10T07:05:40.604Z,"2km SE of Berkeley, CA",earthquake,1.37,3.13,,0,reviewed,ci,ci
-2011-05-22T02:04:56.900Z,37.98,-122.253,9.337,3.4,mh,0,307,0.1045,0.12,ci,ci14989172,2016-03-10T08:28:23.103Z,"4km E of El Sobrante, CA",earthquake,3.03,6.11,,0,reviewed,ci,ci
-2011-04-18T21:57:19.100Z,37.601,-122.45,9.57,3.4,mh,5,256,0.3231,0.3,ci,ci10928645,2016-03-10T00:57:13.645Z,"4km ESE of Pacifica, CA",earthquake,2.52,31.61,,0,reviewed,ci,ci
-2011-01-30T11:29:40.310Z,37.848,-122.032,6.132,3,mh,4,131,0.1636,0.37,ci,ci14924980,2016-03-10T19:00:39.829Z,"0km S of Alamo, CA",earthquake,5.95,31.61,,0,reviewed,ci,ci
-2010-09-02T16:35:33.700Z,37.969,-122.349,6.5,3.1,mwr,21,143,,,us,usp000hk2f,2015-01-28T05:26:47.081Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
-2010-09-01T01:26:55.200Z,37.987,-122.068,15.6,3,mw,4,220.7,,,us,usp000hk05,2015-01-28T11:48:54.065Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
-2010-07-23T21:29:10.100Z,37.665,-122.512,7.7,3.1,mwr,7,208.4,,,us,usp000hgma,2015-01-28T04:03:48.460Z,"offshore Northern California",earthquake,,,,,reviewed,nc,brk
-2010-06-28T14:47:04.340Z,37.742,-122.552,7.7,3.2,mwr,8,194.8,,,us,usp000henf,2015-01-28T03:26:33.914Z,"offshore Northern California",earthquake,,,,,reviewed,nc,brk
-2010-05-30T06:59:57.430Z,37.7126667,-122.1803333,16.535,3.2,mh,7,152,0.169,0.29,ci,ci14728196,2016-03-10T00:20:54.653Z,"2km WSW of San Leandro, CA",earthquake,1.08,3.28,,0,reviewed,ci,ci
-2010-05-15T17:54:42.700Z,37.701,-122.003,8.615,3.3,mh,8,106,0.2105,0.3,ci,ci10667597,2016-03-10T01:45:41.106Z,"4km ENE of Fairview, CA",earthquake,0.96,31.61,,0,reviewed,ci,ci
-2009-10-14T03:27:41.200Z,37.631,-121.875,7.541,3.7,mh,7,157,0.09413,0.24,ci,ci10480645,2016-03-08T21:43:17.732Z,"4km S of Pleasanton, CA",earthquake,1.52,2.77,,0,reviewed,ci,ci
-2009-06-08T22:15:05.700Z,37.8321667,-121.9615,5.084,3.7,mh,5,110,0.1434,0.22,ci,ci14470608,2016-03-09T17:14:08.749Z,"0km SW of Diablo, CA",earthquake,0.75,31.61,,0,reviewed,ci,ci
-2009-06-06T22:30:57.030Z,37.9048333,-122.3031667,5.554,3.3,mh,4,267,0.06062,0.42,ci,ci14469616,2016-03-09T10:22:44.131Z,"1km SSE of El Cerrito, CA",earthquake,12.74,31.61,,0,reviewed,ci,ci
-2009-05-13T22:34:05.470Z,37.8835,-122.3056667,9.595,3,mh,5,265,0.05593,0.13,ci,ci10408489,2016-03-09T04:38:38.707Z,"1km WSW of Albany, CA",earthquake,1.39,0.95,,0,reviewed,ci,ci
-2009-02-21T19:01:02.540Z,37.626,-121.95,11.8,3.2,ml,10,108.6,,,us,usp000gu8z,2015-01-28T05:41:15.200Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
-2008-10-10T23:19:10.910Z,37.837,-122.215,12.7,3.1,ml,8,87.8,,,us,usp000gjx3,2015-01-28T09:30:14.062Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
-2008-09-06T04:00:16.290Z,37.8763333,-122.0113333,14.576,4.04,ml,7,92,0.1389,0.14,ci,ci10347297,2016-03-09T10:04:38.686Z,"3km NNE of Alamo, CA",earthquake,0.7,0.96,0.172,88,reviewed,ci,ci
-2008-06-09T11:31:36.550Z,37.8263333,-122.0893333,6.776,3.1,mh,7,98,0.126,0.19,ci,ci10330413,2016-03-09T08:36:49.901Z,"4km ESE of Moraga, CA",earthquake,0.78,31.61,,0,reviewed,ci,ci
-2008-06-06T09:02:54.870Z,37.8281667,-122.0903333,6.786,3.31,ml,7,97,0.1246,0.13,ci,ci10329845,2016-03-09T14:49:43.468Z,"4km ESE of Moraga, CA",earthquake,0.64,31.61,0.218,15,reviewed,ci,ci
-2008-06-06T09:02:53.160Z,37.8741667,-122.1386667,6.433,3.19,ml,3,274,1.394,0.15,ci,ci10329849,2016-03-08T17:44:29.339Z,"2km SW of Lafayette, CA",earthquake,2.33,31.61,0.083,15,reviewed,ci,ci
-2008-03-21T01:28:21.890Z,37.7063333,-121.9633333,5.015,3.02,ml,8,100,0.1841,0.06,ci,ci10313537,2016-03-08T19:20:09.175Z,"2km W of Dublin, CA",earthquake,0.5,13.27,0.19,14,reviewed,ci,ci
-2008-03-20T23:18:54.520Z,37.708,-121.955,10.5,3,ml,4,144.2,,,us,usp000g1wd,2014-11-07T01:35:17.155Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
-2008-02-07T13:31:43.210Z,37.639,-122.485,9.6,3.1,ml,7,230.6,,,us,usp000fycr,2015-01-28T07:13:51.528Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
-2007-10-04T11:09:41.530Z,37.657,-122.061,6.3,3,md,7,155.9,,,us,usp000fpv7,2014-11-07T01:33:50.413Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
-2007-08-15T07:13:10.720Z,37.8053333,-122.2323333,3.346,3,ml,6,161,0.07081,0.1,ci,ci14313580,2016-03-09T02:37:30.945Z,"1km NNW of Oakland, CA",earthquake,0.95,1.31,0.14,15,reviewed,ci,ci
-2007-07-20T11:42:22.610Z,37.8268333,-122.2846667,9.516,3.68,ml,6,171,0.06278,0.28,ci,ci10263841,2016-03-09T05:24:46.760Z,"0km S of Emeryville, CA",earthquake,1.16,1.87,0.101,57,reviewed,ci,ci
-2007-03-02T04:40:01.700Z,37.9026667,-122.1328333,14.896,4.21,ml,6,106,,0.3,ci,ci14277512,2016-03-09T14:15:38.665Z,"2km NW of Lafayette, CA",earthquake,0.8,1.3,0.131,102,reviewed,ci,ci
-2007-02-23T23:46:15.490Z,37.866,-122.2868333,13.955,3.21,ml,5,170,,0.14,ci,ci10233041,2016-03-08T20:39:16.343Z,"1km WSW of Berkeley, CA",earthquake,0.74,1.55,0.11,20,reviewed,ci,ci
-2006-12-23T17:21:15.690Z,37.8631667,-122.2908333,4.71,3.26,ml,5,88,0.04563,0.1,ci,ci10223697,2016-03-08T23:34:22.926Z,"2km SW of Berkeley, CA",earthquake,1.27,0.97,0.223,16,reviewed,ci,ci
-2006-12-23T06:49:57.670Z,37.869,-122.2711667,10.45,3.49,ml,9,167,0.02907,0.68,ci,ci10223653,2016-03-08T22:09:07.088Z,"0km SE of Berkeley, CA",earthquake,2.74,1.99,0.16,23,reviewed,ci,ci
-2006-12-21T03:12:29.320Z,37.8605,-122.288,4.35,3.43,ml,5,84,0.04436,0.13,ci,ci10223433,2016-03-08T18:50:31.836Z,"2km SW of Berkeley, CA",earthquake,1.38,0.98,0.177,23,reviewed,ci,ci
-2006-05-25T05:38:18.570Z,37.7981667,-122.1141667,14.345,3.05,ml,7,115,0.1237,0.17,ci,ci10184989,2016-03-09T13:57:19.062Z,"4km SSE of Moraga, CA",earthquake,0.64,1.04,0.168,22,reviewed,ci,ci
-2006-03-21T21:41:43.020Z,37.8136667,-122.0995,13.205,3.62,ml,7,105,,0.09,ci,ci14218112,2016-03-09T07:54:19.290Z,"4km SE of Moraga, CA",earthquake,0.61,2.61,0.194,24,reviewed,ci,ci
-2006-03-01T19:34:52.770Z,37.8608333,-122.2366667,6.316,3.08,ml,6,69,0.01538,0.13,ci,ci14215048,2016-03-09T06:26:17.802Z,"4km ESE of Berkeley, CA",earthquake,0.94,0.78,0.187,16,reviewed,ci,ci
-2006-02-18T12:38:16.420Z,37.8286667,-122.1171667,19.276,3.17,ml,7,104,0.1051,0.13,ci,ci14213196,2016-03-09T00:44:03.299Z,"1km ESE of Moraga, CA",earthquake,0.97,2,0.203,24,reviewed,ci,ci
-2005-12-16T18:21:33.660Z,38.003,-122.253,5.8,3.4,ml,17,130,,,us,usp000e699,2015-01-28T04:20:01.725Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
-2005-09-24T11:25:16.800Z,37.83,-122.221,5.4,3.2,mwr,13,118.1,,,us,usp000e03t,2015-01-28T04:02:35.018Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
-2005-05-14T10:53:20.300Z,37.701,-121.964,10.8,3.1,ml,11,95.9,,,us,usp000dqsu,2015-01-28T09:04:44.800Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
-2005-05-08T10:35:55.300Z,37.836,-122.226,5,3.3,mwr,13,119.3,,,us,usp000dq6t,2015-01-28T04:10:43.819Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
-2004-04-26T19:14:00.830Z,37.713501,-121.8466644,15.205,3.3,mh,23,145,,0.15,ci,ci14049760,2016-02-17T13:24:16.421Z,"6km NNE of Pleasanton, California",earthquake,0.76,1.82,,0,automatic,ci,ci
-2003-12-18T00:22:42.840Z,37.795,-122.221,9.5,3.1,ml,9,114.7,,,us,usp000cffj,2015-01-28T05:09:44.522Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
-2003-10-20T17:50:10.100Z,37.8943329,-122.1794968,3.581,3.22,ml,14,87,,0.37,ci,ci13998476,2016-02-17T01:23:01.708Z,"2km N of Orinda, California",earthquake,1.22,1.64,0.314,11,reviewed,ci,ci
-2003-10-19T15:32:52.930Z,37.8904991,-122.1446686,-0.089,3.27,ml,21,73,,0.4,ci,ci13998352,2016-02-16T15:30:04.896Z,"2km WNW of Lafayette, California",earthquake,1.33,2.03,0.343,11,automatic,ci,ci
-2003-09-05T01:39:54.100Z,37.8305016,-122.2773361,5.811,3.6,ml,28,170,,0.34,ci,ci9942841,2016-04-02T04:03:22.502Z,"1km E of Emeryville, CA",earthquake,1.07,2.16,0.208,3,automatic,ci,ci
-2003-05-26T21:15:29.330Z,37.77,-122.578,8.9,3.4,ml,13,196.8,,,us,usp000by7v,2015-01-28T06:28:56.744Z,"offshore Northern California",earthquake,,,,,reviewed,nc,nc
-2003-02-02T19:02:43.270Z,37.753,-121.945,16.5,3.5,ml,23,,,,us,usp000bpvb,2015-01-28T12:01:58.418Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
-2003-02-02T18:47:38.760Z,37.748,-121.946,16.9,4.1,mw,37,,,,us,usp000bpv9,2015-01-28T06:36:48.310Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
-2003-02-02T18:22:58.290Z,37.742,-121.942,16.7,4.1,mw,38,,,,us,usp000bpv7,2015-01-28T03:07:25.766Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
-2003-02-02T16:45:18.440Z,37.738,-121.943,16.6,3,ml,14,,,,us,usp000bpv1,2015-01-28T22:17:47.366Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
-2003-02-02T16:22:52.390Z,37.746,-121.943,16.6,3.7,mw,29,,,,us,usp000bpuy,2015-01-28T07:36:31.406Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
-2003-02-02T16:19:09.000Z,37.742,-121.945,16.2,3.1,md,15,,,,us,usp000bpux,2014-11-07T01:17:44.076Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
-2002-12-24T08:22:30.800Z,37.604,-122.479,9.4,3.6,ml,14,,,,us,usp000bmah,2015-01-28T07:13:21.082Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
-2002-11-27T13:26:54.000Z,37.758,-121.946,9.9,3,ml,8,,,,us,usp000bjh7,2015-01-28T18:17:52.886Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
-2002-11-26T20:12:21.230Z,37.756,-121.95,10,3.3,ml,13,,,,us,usp000bjfd,2015-01-28T15:34:38.108Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
-2002-11-26T14:01:32.710Z,37.761,-121.947,10.9,3.1,ml,20,,,,us,usp000bjeh,2015-01-28T13:01:47.330Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
-2002-11-26T12:38:36.200Z,37.762,-121.946,10.6,3.6,ml,31,,,,us,usp000bje9,2015-01-28T06:48:55.152Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
-2002-11-25T18:22:04.280Z,37.762,-121.94,11,3.5,ml,19,,,,us,usp000bjcq,2015-01-28T08:14:44.354Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
-2002-11-25T03:57:59.250Z,37.758,-121.946,10.6,3.8,ml,31,,,,us,usp000bjbm,2015-01-28T04:50:36.950Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
-2002-11-24T14:54:23.010Z,37.76,-121.95,11.2,3.9,mwr,37,,,,us,usp000bja9,2016-02-17T04:16:04.158Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
-2002-08-22T21:47:58.870Z,37.829,-121.946,17.7,3,ml,12,,,,us,usp000baer,2014-11-07T01:16:19.370Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
-2002-03-20T07:35:12.840Z,37.596,-122.456,7.8,3.2,ml,15,,,,us,usp000b0ph,2015-01-28T10:52:53.385Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
-2001-09-06T19:38:04.050Z,37.589,-122.458,8.9,3.1,ml,9,,,,us,usp000anrp,2015-01-28T13:36:34.261Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
-2001-02-02T03:41:27.600Z,37.785,-122.167,12.5,3.5,ml,27,,,,us,usp000a8w6,2015-01-28T04:37:54.237Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
-2000-11-08T11:59:41.720Z,38.127,-122.165,9.3,3,md,20,,,,us,usp000a37b,2015-01-28T15:32:00.580Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
-2000-07-15T11:56:38.980Z,37.975,-122.034,15.3,3.7,mwr,24,,,,us,usp0009wju,2015-01-28T10:44:07.809Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
-2000-04-14T17:49:25.620Z,37.604,-121.971,9.9,3.2,ml,,,,,us,usp0009r9x,2014-11-07T01:09:53.970Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
-2000-04-14T12:22:31.770Z,37.983,-122.043,15.8,3.3,mwr,,,,,us,usp0009r9k,2014-11-07T01:09:53.931Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
-2000-03-28T21:03:07.300Z,37.631,-122.019,5.8,3.3,ml,,,,,us,usp0009qcq,2015-01-28T15:05:11.668Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
-1999-08-18T01:06:18.950Z,37.907,-122.686,7,4.5,mwr,,,,,us,usp0009d8m,2015-01-28T04:53:21.379Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
-1998-12-13T21:14:43.210Z,37.91,-121.992,11.3,3,md,,,,,us,usp0008zk2,2014-11-07T01:06:39.034Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
-1998-12-04T12:16:07.770Z,37.92,-122.287,6.9,3.9,mwr,,,,,us,usp0008z5g,2014-11-07T01:06:35.949Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
-1998-03-14T10:52:27.950Z,37.377,-122.266,9.6,3,ml,,,,,us,usp0008hfm,2014-11-07T01:04:45.924Z,"Northern California",earthquake,,,,,reviewed,nc,brk
-1998-03-13T13:04:01.410Z,37.754,-122.115,11.9,3.1,md,,,,,us,usp0008he3,2014-11-07T01:04:45.591Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
-1997-11-19T21:05:17.950Z,37.617,-122.015,4.5,3.3,ml,,,,,us,usp0008azw,2014-11-07T01:03:56.108Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
-1997-10-27T14:30:50.660Z,37.726,-122.547,9.9,3.1,ml,,,,,us,usp00089pb,2014-11-07T01:03:46.468Z,"offshore Northern California",earthquake,,,,,reviewed,nc,us
-1997-08-31T00:24:13.990Z,37.736,-122.09,9.4,3,ml,,,,,us,usp00086xs,2014-11-07T01:03:21.724Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,brk
-1997-08-14T08:53:35.630Z,37.736,-122.547,1.6,3,ml,,,,,us,usp0008675,2014-11-07T01:03:18.688Z,"offshore Northern California",earthquake,,,,,reviewed,nc,brk
-1997-07-09T16:14:47.660Z,37.934,-122.026,11.8,3,md,,,,,us,usp00084kv,2014-11-07T01:03:06.953Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,nc
-1997-05-02T12:31:05.610Z,37.707,-122.516,5,3.2,ml,,,,,us,usp00081ms,2014-11-07T01:02:43.037Z,"offshore Northern California",earthquake,,,,,reviewed,nc,brk
-1997-03-11T06:33:53.400Z,37.714,-122.567,3.813,3.6,ml,0,0,,0,ci,ci7061748,2016-02-12T11:26:17.212Z,"8km WNW of Broadmoor, California",earthquake,,,,0,reviewed,ci,ci
-1997-03-11T06:30:16.300Z,37.712,-122.567,4.557,3.6,ml,0,0,,0,ci,ci7061746,2016-02-12T19:14:31.444Z,"8km WNW of Broadmoor, California",earthquake,,,,0,reviewed,ci,ci
-1996-07-01T04:33:05.080Z,37.713,-122.546,10.9,3.4,ml,,,,,us,usp0007kj1,2014-11-07T01:00:43.489Z,"offshore Northern California",earthquake,,,,,reviewed,nc,brk
-1995-12-01T23:11:28.900Z,37.929,-122.29,9.557,3.6,ml,0,0,,0,ci,ci3245360,2016-02-11T22:28:27.668Z,"2km NNW of Kensington, California",earthquake,,,,0,reviewed,ci,ci
-1995-09-05T16:31:11.300Z,37.907,-121.974,15.557,3.3,md,0,0,,0,ci,ci3229467,2016-02-12T03:16:12.590Z,"5km SW of Clayton, California",earthquake,,,,0,reviewed,ci,ci
-1995-09-05T16:29:47.200Z,37.908,-121.976,15.557,3.2,md,0,0,,0,ci,ci3229465,2016-02-12T05:43:08.062Z,"5km SW of Clayton, California",earthquake,,,,0,reviewed,ci,ci
-1995-03-15T08:22:58.800Z,37.924,-122.295,4.557,3.2,ml,0,0,,0,ci,ci3206648,2016-02-12T18:09:33.936Z,"2km ENE of El Cerrito, California",earthquake,,,,0,reviewed,ci,ci
-1995-01-25T04:19:32.730Z,37.773,-121.935,10,3,ml,,,,,us,usp0006rv3,2014-11-07T00:57:10.871Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,gs$
-1994-06-26T08:42:50.200Z,37.917,-122.289,6.557,4.2,ml,0,0,,0,ci,ci3173838,2016-02-13T08:57:26.635Z,"1km NW of Kensington, California",earthquake,,,,0,reviewed,ci,ci
-1994-06-26T08:30:35.300Z,37.918,-122.29,6.557,3.1,ml,0,0,,0,ci,ci3173836,2016-02-13T06:23:24.302Z,"1km NW of Kensington, California",earthquake,,,,0,reviewed,ci,ci
-1994-03-14T21:54:18.340Z,37.792,-121.939,11.6,3.1,ml,,,,,us,usp00069qc,2014-11-07T00:55:09.058Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,nc,gs$
-1994-01-02T03:11:18.230Z,37.769,-122.585,11.3,3,ml,,,,,us,usp00065xp,2014-11-07T00:54:42.128Z,"offshore Northern California",earthquake,,,,,reviewed,nc,brk
-1993-11-24T15:18:07.990Z,37.768,-122.59,11.8,3.2,ml,,,,,us,usp000645f,2014-11-07T00:54:27.049Z,"offshore Northern California",earthquake,,,,,reviewed,nc,brk
-1993-09-19T21:10:09.600Z,38.116,-122.452,7.712,3.6,ml,0,0,2.256,0,ci,ci3122962,2016-02-10T02:57:29.248Z,"5km E of Black Point-Green Point, California",earthquake,,,,0,reviewed,ci,ci
-1993-09-19T20:49:06.500Z,38.117,-122.453,7.712,3.6,ml,0,0,,0,ci,ci3122959,2016-02-10T10:06:15.048Z,"5km E of Black Point-Green Point, California",earthquake,,,,0,reviewed,ci,ci
-1993-09-19T20:28:35.050Z,38.116,-122.45,9,3,ml,,,,,us,usp00060n6,2014-11-07T00:53:59.340Z,"San Pablo Bay, California",earthquake,,,,,reviewed,nc,brk
-1993-05-08T13:48:19.700Z,37.935,-121.982,10,3,ml,,,,,us,usp0005se9,2014-11-07T00:52:59.041Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1993-01-15T11:13:49.400Z,37.92,-122.288,5,3.2,ml,,,,,us,usp0005ktk,2014-11-07T00:52:14.218Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1992-12-20T21:05:21.200Z,37.745,-122.143,1.813,3.7,ml,0,0,,0,ci,ci3084048,2016-02-10T05:40:29.536Z,"2km NNE of San Leandro, California",earthquake,,,,0,reviewed,ci,ci
-1991-12-17T18:13:40.500Z,37.932,-122.292,5,3.1,ml,,,,,us,usp00050kn,2014-11-07T00:49:45.172Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1990-10-14T02:06:21.500Z,38.048,-122.227,9,3.6,ml,,,,,us,usp0004fr5,2014-11-07T00:47:16.764Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1990-09-26T02:53:55.800Z,37.38,-122.182,8,3.6,ml,,,,,us,usp0004f2g,2014-11-07T00:47:08.259Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1990-09-23T13:35:47.600Z,37.395,-122.163,4,3.3,ml,,,,,us,usp0004ezq,2014-11-07T00:47:07.919Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1990-08-25T11:47:30.300Z,37.855,-122.24,4,3.5,ml,,,,,us,usp0004dvv,2014-11-07T00:46:59.302Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1990-05-06T01:37:02.700Z,37.855,-122.01,5,3.1,ml,,,,,us,usp00048xg,2014-11-07T00:46:18.642Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1990-04-28T05:45:04.200Z,37.87,-122.018,7,3.4,ml,,,,,us,usp00048k3,2014-11-07T00:46:12.266Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1990-04-28T04:47:41.800Z,37.863,-122.003,5,4.2,mb,,,,,us,usp00048k1,2014-11-07T00:46:12.260Z,"San Francisco Bay area, California",earthquake,,,,5,reviewed,brk,us
-1990-04-28T04:41:48.000Z,37.885,-121.983,6,4.3,mb,,,,,us,usp00048k0,2014-11-07T00:46:12.257Z,"San Francisco Bay area, California",earthquake,,,,5,reviewed,brk,us
-1990-04-07T04:46:08.500Z,37.882,-121.963,3,3,ml,,,,,us,usp00047m3,2014-11-07T00:46:08.157Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1990-04-07T02:59:34.200Z,37.883,-121.96,4,3.1,ml,,,,,us,usp00047ky,2014-11-07T00:46:08.147Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1990-04-07T02:51:12.600Z,37.872,-121.98,3,3.4,ml,,,,,us,usp00047kw,2014-11-07T00:46:08.142Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1990-04-07T02:41:12.500Z,37.872,-121.985,1,3.1,ml,,,,,us,usp00047ku,2014-11-07T00:46:08.126Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1990-04-07T02:39:18.200Z,37.872,-121.985,1,4.5,mb,,,,,us,usp00047kt,2014-11-07T00:46:08.120Z,"San Francisco Bay area, California",earthquake,,,,9,reviewed,brk,us
-1990-04-06T22:43:37.500Z,37.882,-121.982,8,3,ml,,,,,us,usp00047kf,2014-11-07T00:46:08.089Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1990-04-06T22:41:27.200Z,37.87,-121.992,5,3.7,ml,,,,,us,usp00047ke,2014-11-07T00:46:08.087Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1990-04-06T20:55:53.600Z,37.868,-121.998,3,3.5,ml,,,,,us,usp00047k7,2014-11-07T00:46:08.055Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1989-11-06T23:37:24.500Z,37.642,-122.488,9,3.3,ml,,,,,us,usp00041tw,2014-11-07T00:45:11.403Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1989-11-04T07:16:04.900Z,37.775,-122.155,9,3.6,ml,,,,,us,usp00041qd,2014-11-07T00:45:10.518Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1989-05-09T18:55:40.400Z,37.388,-122.172,7,3,ml,,,,,us,usp0003v37,2014-11-07T00:44:10.238Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1989-02-13T08:01:41.900Z,37.838,-122.603,8,3.6,ml,,,,,us,usp0003rv3,2014-11-07T00:43:36.070Z,"offshore Northern California",earthquake,,,,,reviewed,brk,brk
-1989-02-13T06:41:41.100Z,37.743,-122.13,5,3.1,ml,,,,,us,usp0003rv1,2014-11-07T00:43:36.065Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1989-02-13T06:00:28.600Z,37.843,-122.605,6,3,ml,,,,,us,usp0003rv0,2014-11-07T00:43:36.063Z,"offshore Northern California",earthquake,,,,,reviewed,brk,brk
-1989-02-12T19:49:05.800Z,37.833,-122.602,7,3.1,ml,,,,,us,usp0003rug,2014-11-07T00:43:35.996Z,"offshore Northern California",earthquake,,,,,reviewed,brk,brk
-1988-11-16T02:24:14.100Z,37.37,-122.272,11,3.2,ml,,,,,us,usp0003nwh,2014-11-07T00:43:06.466Z,"Northern California",earthquake,,,,,reviewed,brk,brk
-1988-11-14T19:52:58.400Z,37.367,-122.273,11,3.5,ml,,,,,us,usp0003nv7,2014-11-07T00:43:06.304Z,"Northern California",earthquake,,,,,reviewed,brk,brk
-1988-11-14T19:21:47.500Z,37.367,-122.273,11,3.7,ml,,,,,us,usp0003nv5,2014-11-07T00:43:06.300Z,"Northern California",earthquake,,,,,reviewed,brk,brk
-1988-11-14T18:58:06.000Z,37.363,-122.278,11,3.1,ml,,,,,us,usp0003nv4,2014-11-07T00:43:06.299Z,"Northern California",earthquake,,,,,reviewed,brk,brk
-1987-12-30T01:09:10.900Z,37.782,-122.585,11,3.1,ml,,,,,us,usp0003bnd,2014-11-07T00:41:25.401Z,"offshore Northern California",earthquake,,,,,reviewed,brk,brk
-1987-10-30T23:10:42.700Z,37.907,-122.298,5,3.2,ml,,,,,us,usp00039s0,2014-11-07T00:41:08.025Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1987-10-08T16:20:23.600Z,37.848,-122.233,4,3,ml,,,,,us,usp000392w,2014-11-07T00:41:04.291Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1987-09-19T18:33:59.300Z,37.785,-122.577,12,3.3,ml,,,,,us,usp00038hh,2014-11-07T00:40:57.353Z,"offshore Northern California",earthquake,,,,,reviewed,brk,brk
-1987-08-28T05:16:33.800Z,37.923,-122.29,8,3.4,ml,,,,,us,usp00037w9,2014-11-07T00:40:50.071Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1987-08-21T05:40:23.200Z,37.733,-122.115,7,3.1,ml,,,,,us,usp00037pa,2014-11-07T00:40:49.318Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1987-07-02T11:03:26.500Z,37.932,-122.04,7,3.5,ml,,,,,us,usp000368q,2014-11-07T00:40:36.799Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1987-05-31T03:34:50.200Z,37.735,-122.123,3,3.2,ml,,,,,us,usp00035dk,2014-11-07T00:40:27.336Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1987-05-26T07:59:40.400Z,37.752,-122.133,3,3,ml,,,,,us,usp0003592,2014-11-07T00:40:26.807Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1987-05-26T07:01:12.200Z,37.755,-122.132,4,3.4,ml,,,,,us,usp000358x,2014-11-07T00:40:26.794Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1987-05-11T06:45:47.500Z,37.803,-122.175,4,4.3,ml,,,,,us,usp00034wy,2014-11-07T00:40:24.304Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1987-02-01T17:53:19.000Z,37.71,-122.515,9,3.5,ml,,,,,us,usp000323q,2014-11-07T00:39:44.534Z,"offshore Northern California",earthquake,,,,,reviewed,brk,brk
-1987-02-01T14:51:51.300Z,37.717,-122.525,9,3,ml,,,,,us,usp000323j,2014-11-07T00:39:44.463Z,"offshore Northern California",earthquake,,,,,reviewed,brk,brk
-1987-01-30T01:34:44.800Z,37.732,-122.145,9,3.5,ml,,,,,us,usp0003215,2014-11-07T00:39:41.296Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1986-11-02T03:46:14.500Z,37.638,-122.483,9,3,ml,,,,,us,usp0002zkp,2014-11-07T00:39:17.058Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1986-10-11T06:39:38.100Z,37.825,-121.952,6,3,ml,,,,,us,usp0002yuu,2014-11-07T00:39:08.683Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1986-10-11T05:17:36.200Z,37.842,-121.94,7,4.7,ml,,,,,us,usp0002yut,2014-11-07T00:39:08.680Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1986-05-14T00:30:09.600Z,37.363,-122.262,14,3.4,ml,,,,,us,usp0002tza,2014-11-07T00:38:23.537Z,"Northern California",earthquake,,,,,reviewed,brk,brk
-1986-03-29T16:24:04.200Z,37.877,-122.203,9,4,ml,,,,,us,usp0002sdz,2014-11-07T00:38:06.405Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1986-03-09T01:28:13.000Z,37.672,-122.498,7,3.1,ml,,,,,us,usp0002rnz,2014-11-07T00:38:01.995Z,"offshore Northern California",earthquake,,,,,reviewed,brk,brk
-1985-09-04T06:00:46.700Z,37.752,-122.09,6,3,ml,,,,,us,usp0002jdm,2014-11-07T00:37:07.185Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1985-08-13T16:45:15.100Z,37.847,-122.22,5,3.1,ml,,,,,us,usp0002hpy,2014-11-07T00:37:00.723Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1984-06-25T10:13:24.100Z,37.728,-122.152,7,3.2,ml,,,,,us,usp0002594,2014-11-07T00:35:04.752Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1984-03-27T03:36:35.600Z,37.727,-122.13,7,4.3,mb,,,,,us,usp0002314,2014-11-07T00:34:40.101Z,"San Francisco Bay area, California",earthquake,,,,4,reviewed,brk,us
-1983-11-19T22:52:51.100Z,37.665,-122.003,10,3,ml,,,,,us,usp0001zy4,2014-11-07T00:34:08.833Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1983-06-04T11:25:11.600Z,37.713,-122.13,6,4,ml,,,,,us,usp0001vww,2014-11-07T00:33:17.220Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1983-06-02T00:32:40.290Z,37.78,-121.982,5,3,ml,,,,0.3,us,usp0001vva,2014-11-07T00:33:16.121Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,us,us
-1983-02-04T16:12:12.900Z,37.578,-121.972,9,3,ml,,,,,us,usp0001suc,2014-11-07T00:32:38.080Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1982-08-21T14:31:26.400Z,37.677,-121.967,10,3.3,ml,,,,,us,usp0001p66,2014-11-07T00:31:47.138Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1982-03-26T13:24:00.200Z,37.797,-122.208,4,3.1,ml,,,,,us,usp0001kc5,2014-11-07T00:31:02.066Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1982-01-19T07:13:09.300Z,37.828,-122.232,10,3.3,ml,,,,,us,usp0001j4b,2014-11-07T00:30:41.429Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,brk,brk
-1981-12-12T15:11:09.100Z,37.383,-122.275,9,3.8,ml,,,,,us,usp0001hcp,2014-11-07T00:30:31.179Z,"Northern California",earthquake,,,,,reviewed,brk,brk
-1981-03-03T10:45:12.800Z,37.548,-121.945,8,4.2,mb,,,,,us,usp0001cgc,2014-11-07T00:29:00.884Z,"San Francisco Bay area, California",earthquake,,,,3,reviewed,brk,us
-1981-01-05T02:52:17.900Z,37.957,-122.06,8,3,ml,,,,,us,usp0001bkw,2014-11-06T23:24:28.544Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
-1980-12-31T12:16:29.400Z,37.705,-122.118,11,3.5,ml,,,,,us,usp0001bhv,2014-11-06T23:24:28.483Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
-1980-11-02T23:39:24.600Z,37.883,-122.248,5,3.1,ml,,,,,us,usp0001an4,2014-11-06T23:24:27.055Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
-1980-10-02T12:47:01.700Z,37.995,-122.068,17,3.1,ml,,,,,us,usp0001a26,2014-11-06T23:24:26.262Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
-1980-08-24T12:41:15.440Z,37.6768333,-121.844,6,4.18,ml,11,282,,0.48,ci,ci3304814,2016-04-02T14:06:11.869Z,"3km ENE of Pleasanton, CA",earthquake,7.65,31.61,0.138,16,reviewed,ci,ci
-1980-07-06T12:04:45.800Z,37.978,-122.078,10,3.1,ml,,,,,us,usp00018pp,2014-11-06T23:24:24.088Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
-1980-04-07T05:17:30.600Z,37.843,-122.24,6,3.5,ml,,,,,us,usp00016g9,2014-11-06T23:24:20.200Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
-1980-01-27T10:57:56.930Z,38,-122,6,3.91,ml,39,308,3.038,1.59,ci,ci3325511,2016-04-02T04:26:59.718Z,"4km NNE of Concord, CA",earthquake,99,31.61,0.114,7,reviewed,ci,ci
-1980-01-27T02:33:29.860Z,38,-122,6,5.28,ml,15,312,3.038,0.68,ci,ci3325503,2016-10-26T00:42:39.716Z,"4km NNE of Concord, CA",earthquake,99,31.61,0.088,10,reviewed,ci,ci
-1980-01-25T05:24:34.460Z,38,-122,6,4.51,ml,10,312,3.142,2.91,ci,ci12323111,2016-02-03T04:12:41.650Z,"4km NNE of Concord, CA",earthquake,99,31.61,0.123,20,reviewed,ci,ci
-1980-01-25T05:12:42.810Z,38,-122,6,4.47,ml,11,312,3.038,8.79,ci,ci3325470,2016-02-02T18:54:02.050Z,"4km NNE of Concord, CA",earthquake,99,31.61,0.187,20,reviewed,ci,ci
-1980-01-24T19:56:05.100Z,37.847,-121.843,14,3.7,ml,,,,,us,usp000155m,2014-11-06T23:24:17.054Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
-1979-08-13T19:18:46.800Z,37.863,-122.168,9,3.5,ml,,,,,us,usp00012dc,2014-11-06T23:22:04.751Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
-1979-07-10T08:23:23.200Z,37.863,-121.975,17,3.7,ml,,,,,us,usp00011sw,2014-11-06T23:22:03.752Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
-1979-07-03T13:25:45.500Z,37.597,-121.983,8,3.4,ml,,,,,us,usp00011pr,2014-11-06T23:22:03.605Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
-1978-07-31T09:15:44.500Z,37.718,-122.122,5,3.1,ml,,,,,us,usp0000vvc,2014-11-06T23:21:51.030Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
-1977-11-01T04:06:43.400Z,37.708,-122.558,2,3.3,ml,,,,,us,usp0000rb1,2014-11-06T23:21:45.035Z,"offshore Northern California",earthquake,,,,,reviewed,b,brk
-1977-08-14T14:25:34.800Z,37.737,-121.922,9,3.4,ml,,,,,us,usp0000q3b,2014-11-06T23:21:43.504Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
-1977-07-19T23:50:30.600Z,38.05,-121.99,2,3.5,ml,,,,,us,usp0000pt4,2014-11-06T23:21:43.034Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
-1977-03-01T21:08:46.100Z,37.838,-122.058,9,3,ml,,,,,us,usp0000ms8,2014-11-06T23:21:40.028Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
-1977-01-09T05:34:16.600Z,37.897,-122.193,10,3.2,ml,,,,,us,usp0000m4b,2014-11-06T23:21:39.280Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
-1977-01-08T09:51:55.300Z,37.917,-122.2,9,3.1,ml,,,,,us,usp0000m3z,2014-11-06T23:21:39.270Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
-1977-01-08T09:43:59.000Z,37.912,-122.197,10,3,ml,,,,,us,usp0000m3y,2014-11-06T23:21:39.269Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
-1977-01-08T09:39:40.700Z,37.912,-122.197,10,4,ml,,,,,us,usp0000m3x,2014-11-06T23:21:39.269Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
-1977-01-08T09:38:07.400Z,37.912,-122.197,10,4.8,mb,,,,,us,usp0000m3w,2015-03-25T16:30:11.778Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,us
-1977-01-08T08:58:13.800Z,37.907,-122.195,10,4.1,ml,,,,,us,usp0000m3v,2014-11-06T23:21:39.267Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
-1977-01-08T07:17:33.800Z,37.903,-122.197,10,3,ml,,,,,us,usp0000m3t,2014-11-06T23:21:39.265Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
-1976-10-15T01:35:31.800Z,38.012,-122.053,19,3.4,ml,,,,,us,usp0000jvg,2014-11-06T23:21:37.715Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
-1976-08-20T22:08:01.100Z,37.763,-121.912,2,3.9,ml,,,,,us,usp0000hz6,2014-11-06T23:21:36.834Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
-1976-08-20T22:05:52.900Z,37.793,-121.97,7,4,ml,,,,,us,usp0000hz5,2014-11-06T23:21:36.834Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
-1976-08-15T12:29:04.600Z,37.808,-121.928,5,3.1,ml,,,,,us,usp0000hun,2014-11-06T23:21:36.708Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,us,brk
-1975-12-07T18:59:10.100Z,37.965,-122.363,6,3.1,mb,,,,,us,usp0000duu,2014-11-06T23:21:32.889Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,us
-1975-06-22T00:12:35.400Z,37.34,-122.33,12,3.5,ml,,,,,us,usp0000bps,2014-11-06T23:21:30.964Z,"Northern California",earthquake,,,,,reviewed,b,brk
-1975-06-20T05:34:00.600Z,37.338,-122.325,11,3.3,ml,,,,,us,usp0000bnx,2014-11-06T23:21:30.948Z,"Northern California",earthquake,,,,,reviewed,b,brk
-1975-06-19T16:17:53.100Z,37.351,-122.309,11,3.5,ml,,,,,us,usp0000bnr,2014-11-06T23:21:30.944Z,"Northern California",earthquake,,,,,reviewed,b,brk
-1975-04-18T01:41:32.400Z,37.943,-122.322,9,3.3,ml,,,,,us,usp0000anr,2014-11-06T23:21:29.806Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
-1975-02-17T04:57:49.200Z,37.892,-121.988,10,3.1,ml,,,,,us,usp00009y6,2014-11-06T23:21:28.902Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,brk
-1974-12-29T09:51:44.900Z,37.96,-122.362,4,3.1,mb,,,,,us,usp000099w,2014-11-06T23:21:28.053Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,us
-1957-03-22T19:44:22.000Z,37.557,-122.724,15,5.7,mw,,,,,iscgem,iscgem886234,2015-05-13T18:52:51.000Z,"offshore Northern California",earthquake,,,,,automatic,iscgem,iscgem
-1906-04-18T13:12:27.000Z,38.056,-122.403,10,7.7,mw,,,,,iscgem,iscgem16957905,2015-05-13T18:52:41.000Z,"San Pablo Bay, California",earthquake,,,,,automatic,iscgem,iscgem
+2016-07-31T19:00:06.561Z,39.4347,-119.7375,6.7,3.1,ml,48,27.03,0.05,0.232,nn,nn00553959,2016-10-19T04:51:59.040Z,"11km S of Sparks, Nevada",earthquake,0.62,0.8,0.25,22,reviewed,nn,nn
+2015-12-23T07:05:36.281Z,39.4362,-119.7835,9.6,3.1,ml,31,45.6,0.03,0.1449,nn,nn00523693,2016-03-12T02:29:22.040Z,"10km SSE of Reno, Nevada",earthquake,0.53,0.6,0.19,11,reviewed,nn,nn
+2015-12-23T06:46:07.342Z,39.4309,-119.7845,9.7,4.4,ml,30,47.24,0.024,0.1587,nn,nn00523696,2016-08-04T05:16:26.377Z,"11km SSE of Reno, Nevada",earthquake,0.63,0.6,0.23,8,reviewed,nn,nn
+2015-12-23T06:45:49.315Z,39.4308,-119.7844,9.7,3.5,ml,29,47.24,0.024,0.1304,nn,nn00526746,2016-03-22T21:32:32.236Z,"11km SSE of Reno, Nevada",earthquake,0.54,0.6,0.44,11,reviewed,nn,nn
+2015-12-23T06:36:30.079Z,39.4282,-119.7812,9.4,3,ml,26,43.62,0.024,0.1119,nn,nn00523682,2016-03-12T02:29:22.040Z,"11km SSE of Reno, Nevada",earthquake,0.53,0.6,0.31,11,reviewed,nn,nn
+2015-12-23T06:22:36.114Z,39.4332,-119.7886,9.4,3.2,ml,29,45.06,0.026,0.1453,nn,nn00523675,2016-08-04T05:12:03.508Z,"10km SSE of Reno, Nevada",earthquake,0.64,0.7,0.34,11,reviewed,nn,nn
+2015-10-28T14:22:23.527Z,39.0892,-119.6352,10.5,3,ml,31,73.02,0.028,0.1704,nn,nn00516642,2016-01-22T23:41:21.040Z,"8km ENE of Johnson Lane, Nevada",earthquake,0.63,0.7,0.27,17,reviewed,nn,nn
+2015-07-19T01:36:06.880Z,39.4526667,-120.28,9.9,3.19,mw,22,42,0.02042,0.07,nc,nc72488831,2015-10-14T21:05:43.040Z,"16km NNW of Truckee, California",earthquake,0.26,0.5,,3,reviewed,nc,nc
+2015-04-08T05:06:43.720Z,39.3606667,-120.0208333,1.54,3.41,mw,17,75,0.1146,0.05,nc,nc72428161,2016-08-04T05:15:15.703Z,"12km NNW of Incline Village, Nevada",earthquake,0.25,3.17,,5,reviewed,nc,nc
+2014-09-11T00:08:42.900Z,39.2353,-120.1012,6.3,3.4,Mw,21,61.2,0.08084838,0.05,nc,nc72296116,2016-03-11T22:49:07.672Z,"4km W of Tahoe Vista, California",earthquake,0.2,0.8,,3,reviewed,nc,nc
+2014-07-08T00:16:47.574Z,39.1993,-119.7298,9.652,3.2,ml,35,63.74,0.013,0.1632,nn,nn00451213,2015-01-28T13:39:59.373Z,"5km NE of Carson City, Nevada",earthquake,0.7695,0.6105,0.25,9,reviewed,nn,nn
+2014-01-30T11:22:58.790Z,39.4211,-119.5656,9.264,3.1,ml,,82,0.142,0.63,us,usc000mdjl,2015-01-30T16:10:19.668Z,"14km NNE of Virginia City, Nevada",earthquake,,2.9,,,reviewed,nn,nn
+2014-01-30T10:32:02.220Z,39.4189,-119.5759,12.082,3.2,ml,,122,0.136,0.83,us,usc000mdit,2015-01-29T22:14:05.297Z,"13km NNE of Virginia City, Nevada",earthquake,,4.3,,,reviewed,nn,nn
+2014-01-30T07:00:00.779Z,39.4211,-119.5675,8.8764,3.22,ml,30,81.88,0.141,0.1249,nn,nn00436637,2015-01-28T22:41:05.698Z,"14km NNE of Virginia City, Nevada",earthquake,0.6958,1.4855,,9,reviewed,nn,nn
+2014-01-28T16:27:30.450Z,39.424,-119.5669,9.343,3.2,ml,,81,0.141,0.48,us,usb000m9pz,2015-01-29T00:26:05.284Z,"14km NNE of Virginia City, Nevada",earthquake,,7.6,,,reviewed,nn,nn
+2013-08-27T00:51:43.827Z,39.6696,-119.6841,13.9,4.2,ml,38,59.04,0.137,0.1097,nn,nn00421303,2016-05-17T18:29:28.211Z,"3km NE of Spanish Springs, Nevada",earthquake,0.55,0.7,0.22,8,reviewed,nn,nn
+2012-10-03T19:51:08.430Z,39.724,-119.436,10.9,3.4,mwr,81,26.4,,,us,usp000jtg9,2015-01-29T22:53:07.398Z,"Nevada",earthquake,,,,,reviewed,ren,us
+2012-06-23T03:51:57.290Z,39.318,-119.99,6.065,4.2,mh,7,222,1.193,0.19,ci,ci11126058,2016-03-12T03:20:53.638Z,"8km N of Incline Village, NV",earthquake,99,31.61,,0,reviewed,ci,ci
+2011-12-23T05:30:29.250Z,39.413,-120.125,6.7,3.1,ml,52,42.7,,,us,usp000jchu,2015-01-28T10:45:28.654Z,"Northern California",earthquake,,,,,reviewed,ren,ren
+2011-07-14T07:52:54.130Z,39.3143333,-120.0081667,5.665,3,mh,2,271,1.18,0.08,ci,ci15016988,2016-03-10T10:01:40.040Z,"8km NNW of Incline Village, NV",earthquake,2.4,31.61,,0,reviewed,ci,ci
+2011-06-22T20:00:15.740Z,39.324,-119.987,6.3,3.1,ml,5,161,,,us,usp000j3k3,2015-01-30T02:30:32.241Z,"Nevada",earthquake,,,,,reviewed,ren,ren
+2011-06-22T19:59:50.940Z,39.318,-119.978,7.1,3.3,ml,9,91.3,,,us,usp000j3k2,2015-01-29T16:55:31.666Z,"Nevada",earthquake,,,,,reviewed,ren,ren
+2011-05-18T15:55:50.670Z,39.774,-119.908,8.6,3,ml,24,34.6,,,us,usp000j1su,2015-01-30T07:42:40.278Z,"Nevada",earthquake,,,,,reviewed,ren,ren
+2010-12-29T01:53:33.420Z,39.232,-120.102,6.7,3.3,ml,15,62.2,,,us,usp000hs7j,2015-01-28T15:41:31.462Z,"Northern California",earthquake,,,,,reviewed,nc,nc
+2010-12-18T17:46:08.830Z,39.631,-119.993,7.1,3,ml,4,133.7,,,us,usp000hr3w,2015-01-30T02:30:21.363Z,"Nevada",earthquake,,,,,reviewed,ren,ren
+2010-11-28T09:47:38.210Z,39.426,-119.866,12.5,3,ml,6,103.6,,,us,usp000hq8k,2015-01-28T19:59:21.664Z,"Nevada",earthquake,,,,,reviewed,ren,ren
+2010-10-18T03:44:43.600Z,39.341,-120.089,6.303,3.1,mh,7,191,1.325,1.43,ci,ci14862684,2016-03-10T18:52:02.123Z,"8km E of Truckee, CA",earthquake,8.59,28.23,,0,reviewed,ci,ci
+2010-02-26T05:51:17.060Z,39.819,-120.05,12,3.1,ml,7,193.3,,,us,usp000h7q2,2015-01-31T00:22:36.874Z,"Northern California",earthquake,,,,,reviewed,ren,ren
+2009-12-23T04:59:54.211Z,39.3133,-119.9949,7.8,3.5,ml,37,44.4,0.038,0.1356,nn,nn00432465,2016-03-22T22:02:26.501Z,"7km NNW of Incline Village, Nevada",earthquake,0.6,1.2,0.48,6,reviewed,nn,nn
+2008-11-13T07:42:08.300Z,39.547,-119.94,5.4,3.1,ml,5,105,,,us,usp000gnkd,2015-01-29T21:42:42.950Z,"Nevada",earthquake,,,,,reviewed,ren,ren
+2008-10-27T05:41:46.560Z,39.453,-119.415,8.6,3.5,ml,19,54.3,,,us,usp000gm47,2014-11-07T01:37:32.814Z,"Nevada",earthquake,,,,,reviewed,ren,ren
+2008-07-29T10:34:48.820Z,39.2183333,-120.02,5.303,3.3,mh,4,282,1.216,1.61,ci,ci14383936,2016-03-08T17:48:49.391Z,"2km SSE of Kings Beach, CA",earthquake,37.99,31.61,,0,reviewed,ci,ci
+2008-06-17T14:01:49.000Z,39.529,-119.936,4.5,3,ml,14,65.2,,,us,usp000g9wf,2014-11-07T01:36:22.380Z,"Nevada",earthquake,,,,,reviewed,ren,ren
+2008-06-10T00:18:35.070Z,39.549,-119.92,0.4,3,ml,9,104.2,,,us,usp000g92h,2014-11-07T01:36:17.808Z,"Nevada",earthquake,,,,,reviewed,ren,ren
+2008-06-08T17:55:19.421Z,39.5464,-119.9213,1.5,3.8,ml,37,57.63,0.004,0.1068,nn,nn00248760,2015-11-18T22:44:41.299Z,"3km N of Mogul, Nevada",earthquake,0.51,1.2,0.37,4,reviewed,nn,nn
+2008-06-08T17:53:40.688Z,39.5487,-119.9192,2.3,3.6,ml,39,56.98,0.006,0.1252,nn,nn00248740,2016-03-09T05:43:10.268Z,"3km N of Mogul, Nevada",earthquake,0.64,0.9,0.18,4,reviewed,nn,nn
+2008-06-08T10:13:59.790Z,39.4961667,-120.0315,-0.305,3.21,ml,2,277,1.138,0.11,ci,ci10330249,2016-03-09T12:59:57.452Z,"4km SW of Verdi, NV",earthquake,3.28,31.61,0.25,19,reviewed,ci,ci
+2008-05-18T08:44:20.110Z,39.552,-119.918,1.9,3.1,ml,7,104.1,,,us,usp000g750,2014-11-07T01:36:02.401Z,"Nevada",earthquake,,,,,reviewed,ren,ren
+2008-05-15T13:44:51.520Z,39.4553333,-120.0678333,6.405,3.4,mh,6,220,1.113,0.73,ci,ci14368860,2016-03-08T19:24:10.137Z,"10km SW of Verdi, NV",earthquake,5.58,31.61,,0,reviewed,ci,ci
+2008-05-08T05:55:01.579Z,39.54,-119.9256,2.6,3.5,ml,50,47.97,0.006,0.1193,nn,nn00247350,2016-03-09T01:27:14.896Z,"2km N of Mogul, Nevada",earthquake,0.46,0.5,0.51,5,reviewed,nn,nn
+2008-05-08T05:55:01.000Z,39.542,-119.921,2.8,3.6,mwr,38,45.7,,,us,usp000g5u8,2015-01-28T10:46:38.236Z,"Nevada",earthquake,,,,,reviewed,ren,brk
+2008-04-29T16:15:00.280Z,39.509,-119.9636667,-0.325,3.1,mh,2,280,1.189,0.05,ci,ci10321273,2016-03-09T07:08:43.201Z,"2km ESE of Verdi, NV",earthquake,2.14,31.61,,0,reviewed,ci,ci
+2008-04-29T06:01:55.820Z,39.4246667,-120.0885,0.745,3.1,mh,2,272,1.1,0.55,ci,ci10321209,2016-03-09T01:26:35.070Z,"14km SW of Verdi, NV",earthquake,7.64,31.61,,0,reviewed,ci,ci
+2008-04-29T05:51:05.880Z,39.4835,-119.9783333,-0.325,3.1,mh,2,279,1.179,0.02,ci,ci10321205,2016-03-09T04:15:40.839Z,"4km SSE of Verdi, NV",earthquake,1.82,31.61,,0,reviewed,ci,ci
+2008-04-28T11:33:18.320Z,39.5601667,-119.9086667,5.635,4.2,mh,2,283,1.231,0.01,ci,ci10321033,2016-03-09T05:40:35.164Z,"5km NNE of Mogul, NV",earthquake,7.58,10,,0,reviewed,ci,ci
+2008-04-27T17:49:49.990Z,39.5436667,-119.9218333,5.665,3,mh,2,282,1.221,0.02,ci,ci10320909,2016-03-09T16:38:56.230Z,"3km N of Mogul, NV",earthquake,1.71,31.61,,0,reviewed,ci,ci
+2008-04-26T15:20:40.572Z,39.546,-119.9456,0.2,3.4,ml,43,54.49,0.018,0.1334,nn,nn00283280,2016-03-08T22:34:25.770Z,"3km NNW of Mogul, Nevada",earthquake,0.51,2,0.35,8,reviewed,nn,nn
+2008-04-26T09:11:59.819Z,39.5247,-119.9285,1.2,3.5,ml,42,46.45,0.005,0.1127,nn,nn00242605,2016-03-09T00:00:53.952Z,"1km N of Mogul, Nevada",earthquake,0.45,0.6,0.4,8,reviewed,nn,nn
+2008-04-26T07:29:20.041Z,39.5297,-119.9308,2.7,3.7,ml,44,36.49,0.001,0.1615,nn,nn00242561,2016-03-08T21:06:42.992Z,"1km NNW of Mogul, Nevada",earthquake,0.43,0.9,0.41,8,reviewed,nn,nn
+2008-04-26T06:43:50.828Z,39.5207,-119.923,1.3,3.4,ml,46,37.91,0.002,0.1118,nn,nn00242528,2015-11-17T08:18:03.379Z,"0km NNE of Mogul, Nevada",earthquake,0.4,0.7,0.14,5,reviewed,nn,nn
+2008-04-26T06:40:10.453Z,39.5231,-119.9393,2.8,5.1,ml,35,39.56,0.008,0.122,nn,nn00385392,2016-11-10T01:55:12.004Z,"1km NW of Mogul, Nevada",earthquake,0.57,0.5,0.13,2,reviewed,nn,nn
+2008-04-26T06:39:59.648Z,39.5212,-119.9279,2.8,3.6,ml,40,38.3,0.002,0.104,nn,nn00242527,2016-03-09T17:07:29.421Z,"0km N of Mogul, Nevada",earthquake,0.49,0.5,1.05,5,reviewed,nn,nn
+2008-04-26T01:13:20.999Z,39.5246,-119.9283,0.9,3.9,ml,37,40.12,0.005,0.1005,nn,nn00242477,2016-03-09T14:45:34.771Z,"1km N of Mogul, Nevada",earthquake,0.5,0.8,0.52,6,reviewed,nn,nn
+2008-04-25T17:30:10.270Z,39.5673333,-119.9245,5.665,3.3,mh,2,284,1.218,0.07,ci,ci10320469,2016-03-08T17:41:01.551Z,"6km N of Mogul, NV",earthquake,2.05,31.61,,0,reviewed,ci,ci
+2008-04-25T08:42:58.490Z,39.54,-119.9213333,5.665,3.3,mh,2,282,1.221,0.03,ci,ci10320393,2016-03-09T02:51:47.900Z,"3km N of Mogul, NV",earthquake,1.64,31.61,,0,reviewed,ci,ci
+2008-04-25T01:00:33.740Z,39.573,-119.9326667,5.665,3.3,mh,2,284,1.212,0.13,ci,ci10320349,2016-03-08T21:06:41.677Z,"7km N of Mogul, NV",earthquake,2.46,31.61,,0,reviewed,ci,ci
+2008-04-24T22:55:48.953Z,39.5297,-119.9332,2.9,4.1,ml,49,50.11,0.002,0.1217,nn,nn00242164,2016-03-09T09:56:59.454Z,"1km NNW of Mogul, Nevada",earthquake,0.5,0.5,0.18,4,reviewed,nn,nn
+2008-04-24T22:47:04.170Z,39.528,-119.9283,2.2,3.8,ml,46,41.88,0.003,0.1415,nn,nn00242157,2016-03-09T07:08:30.017Z,"1km N of Mogul, Nevada",earthquake,0.46,0.5,0.16,5,reviewed,nn,nn
+2008-04-21T19:14:10.290Z,39.5163333,-119.9556667,-0.325,3.1,mh,2,280,1.195,0.01,ci,ci10319645,2016-03-09T09:56:47.538Z,"3km W of Mogul, NV",earthquake,2.45,31.61,,0,reviewed,ci,ci
+2008-04-15T21:33:57.644Z,39.5358,-119.9339,1.7,3.5,ml,40,47.29,0.006,0.1202,nn,nn00241238,2016-03-09T05:39:51.069Z,"2km NNW of Mogul, Nevada",earthquake,0.49,0.7,0.04,3,reviewed,nn,nn
+2008-04-15T21:32:31.818Z,39.5283,-119.9308,1.9,3.5,ml,46,42.55,0.003,0.1151,nn,nn00241404,2016-03-08T22:33:51.934Z,"1km NNW of Mogul, Nevada",earthquake,0.5,0.5,0.28,4,reviewed,nn,nn
+2008-04-15T21:26:35.320Z,39.534,-119.932,1.5,3.2,ml,9,123.6,,,us,usp000g40p,2015-01-28T23:26:15.328Z,"Nevada",earthquake,,,,,reviewed,ren,ren
+2008-04-15T14:59:40.820Z,39.4336667,-120.0955,3.145,3.4,mh,6,218,1.094,1.19,ci,ci10318461,2016-03-09T11:19:45.256Z,"13km SW of Verdi, NV",earthquake,5.98,8.81,,0,reviewed,ci,ci
+2008-04-02T00:07:46.350Z,39.522,-119.932,2.3,3,ml,9,105.1,,,us,usp000g2xf,2014-11-07T01:35:27.321Z,"Nevada",earthquake,,,,,reviewed,ren,ren
+2008-03-27T03:42:14.350Z,39.532,-119.936,1.7,3.2,ml,11,92.9,,,us,usp000g2fa,2015-01-29T00:35:11.483Z,"Nevada",earthquake,,,,,reviewed,ren,ren
+2008-03-24T19:16:14.300Z,39.525,-119.932,1.9,3.1,ml,8,105,,,us,usp000g291,2014-11-07T01:35:18.916Z,"Nevada",earthquake,,,,,reviewed,ren,ren
+2008-03-13T17:56:21.840Z,39.592,-120.29,10.5,3.1,ml,7,113.4,,,us,usp000g1dr,2014-11-07T01:35:15.082Z,"Northern California",earthquake,,,,,reviewed,ren,ren
+2008-03-08T10:07:00.399Z,39.5229,-119.9321,1.5,3.2,ml,39,17.62,0.024,0.136,nn,nn00237524,2016-03-09T01:23:41.222Z,"1km NNW of Mogul, Nevada",earthquake,0.44,2.4,0.16,5,reviewed,nn,nn
+2008-01-28T22:18:34.593Z,39.3087,-119.9713,11.2,3.5,ml,34,61.68,0.164,0.1098,nn,nn00231198,2015-11-17T13:56:28.069Z,"6km N of Incline Village, Nevada",earthquake,0.72,2.8,0.3,5,reviewed,nn,nn
+2005-06-26T18:45:57.075Z,39.3097,-120.0602,9.7,4.5,ml,40,34.1,0.025,0.1184,nn,nn00146980,2015-11-17T20:57:54.830Z,"7km N of Tahoe Vista, California",earthquake,0.44,1,0,1,reviewed,nn,nn
+2005-03-04T05:33:45.420Z,39.65,-119.324,12.2,3,ml,15,53.2,,,us,usp000dhg0,2014-11-07T01:25:10.644Z,"Nevada",earthquake,,,,,reviewed,ren,ren
+2004-06-12T15:04:18.320Z,39.408,-120.224,10,3.4,ml,24,37.9,,,us,usp000cxsc,2015-01-28T21:34:38.609Z,"Northern California",earthquake,,,,,reviewed,ren,nc
+2004-06-12T14:49:40.990Z,39.407,-120.2263,10.6,3.4,ml,44,46.19,0.058,0.1049,nn,nn00106827,2015-11-18T01:05:52.774Z,"9km NNW of Truckee, California",earthquake,0.39,0.9,0.52,5,reviewed,nn,nn
+2004-06-03T08:54:45.585Z,39.3301,-120.0258,7.1,4.2,ml,49,30.09,0.038,0.137,nn,nn00106408,2015-11-18T01:18:22.744Z,"9km NNW of Incline Village, Nevada",earthquake,0.48,0.8,0.45,2,reviewed,nn,nn
+2004-06-03T08:25:36.810Z,39.335,-120.016,9.2,3,ml,14,43.2,,,us,usp000cwzf,2014-11-07T01:22:32.025Z,"Northern California",earthquake,,,,,reviewed,ren,ren
+2003-05-04T12:07:10.460Z,39.516,-119.569,7.5,3.4,ml,22,49.8,,,us,usp000bwkq,2014-11-07T01:18:33.402Z,"Nevada",earthquake,,,,,reviewed,ren,ren
+2002-05-22T08:49:56.960Z,39.42,-119.588,20,3.1,md,17,,,,us,usp000b4s6,2014-11-07T01:15:39.073Z,"Nevada",earthquake,,,,,reviewed,ren,nc
+2002-02-05T05:12:43.400Z,39.145,-119.582,7.9,3.1,md,25,,,,us,usp000axu0,2014-11-07T01:14:52.654Z,"Nevada",earthquake,,,,,reviewed,ren,nc
+2001-10-30T04:43:19.000Z,39.3,-119.97,6.5,3,ml,15,,,,us,usp000arwu,2014-11-07T01:14:05.104Z,"Nevada",earthquake,,,,,reviewed,ren,nc
+2001-07-07T07:39:52.650Z,39.301,-119.977,8.7,3.2,md,16,,,,us,usp000aj3x,2014-11-07T01:13:15.490Z,"Nevada",earthquake,,,,,reviewed,ren,nc
+2001-07-07T07:33:54.200Z,39.311,-119.971,9.5,3.8,ml,32,,,,us,usp000aj3w,2015-01-28T23:15:30.925Z,"Nevada",earthquake,,,,,reviewed,ren,brk
+2001-05-29T06:21:08.620Z,39.308,-119.98,9.3,3,md,13,,,,us,usp000afqg,2014-11-07T01:12:51.829Z,"Nevada",earthquake,,,,,reviewed,ren,nc
+2000-11-25T17:38:20.000Z,39.676,-119.293,8.9,3.5,ml,26,,,,us,usp000a4xs,2014-11-07T01:11:33.894Z,"Nevada",earthquake,,,,,reviewed,ren,ren
+1998-12-04T00:57:35.000Z,39.32,-119.98,11.4,3.6,ml,,,,,us,usp0008z4q,2014-11-07T01:06:35.740Z,"Nevada",earthquake,,,,,reviewed,ren,brk
+1998-10-30T09:53:30.000Z,39.3,-119.98,10.3,4.8,mwr,,,,,us,usp0008x9u,2014-11-07T01:06:18.597Z,"Nevada",earthquake,,,,,reviewed,ren,brk
+1998-06-20T22:50:42.000Z,39.53,-120.32,10.8,3.3,ml,,,,,us,usp0008q6u,2014-11-07T01:05:25.903Z,"Northern California",earthquake,,,,,reviewed,ren,brk
+1998-05-20T16:19:43.000Z,39.64,-119.97,8,3.4,ml,,,,,us,usp0008neg,2014-11-07T01:05:14.574Z,"Nevada",earthquake,,,,,reviewed,ren,us
+1998-01-15T15:12:14.710Z,39.425,-120.183,0.2,3.7,mwr,,,,,us,usp0008edb,2014-11-07T01:04:20.470Z,"Northern California",earthquake,,,,,reviewed,nc,brk
+1997-11-14T23:37:06.220Z,39.535,-120.288,5,3.6,ml,,,,0.73,us,usp0008apj,2014-11-07T01:03:54.303Z,"Northern California",earthquake,,,,,reviewed,us,brk
+1997-10-15T18:58:04.220Z,39.662,-120.135,5,3,ml,,,,1.12,us,usp000894p,2014-11-07T01:03:42.366Z,"Northern California",earthquake,,,,,reviewed,us,brk
+1997-10-15T14:55:01.460Z,39.62,-120.072,4,3.2,md,,,,,us,usp000894a,2014-11-07T01:03:42.314Z,"Northern California",earthquake,,,,,reviewed,nc,nc
+1997-10-15T06:35:55.790Z,39.598,-120.107,3.8,3,ml,,,,,us,usp0008939,2014-11-07T01:03:42.227Z,"Northern California",earthquake,,,,,reviewed,nc,brk
+1997-10-14T18:18:05.090Z,39.62,-120.086,0.1,3.6,md,,,,,us,usp000891t,2014-11-07T01:03:41.935Z,"Northern California",earthquake,,,,,reviewed,nc,nc
+1997-05-08T21:04:26.190Z,39.587,-120.162,3.2,3,ml,,,,,us,usp00081yb,2014-11-07T01:02:45.377Z,"Northern California",earthquake,,,,,reviewed,nc,brk
+1997-02-23T18:18:33.950Z,39.633,-120.082,5,3.1,ml,,,,,us,usp0007xpy,2014-11-07T01:02:11.012Z,"Northern California",earthquake,,,,,reviewed,nc,brk
+1997-01-20T06:16:24.900Z,39.605,-120.136,5,3,md,,,,0.29,us,usp0007w3z,2014-11-07T01:01:58.906Z,"Northern California",earthquake,,,,,reviewed,us,nc
+1997-01-17T05:52:04.700Z,39.64,-120.033,5,3,ml,,,,0.49,us,usp0007vyu,2014-11-07T01:01:58.241Z,"Northern California",earthquake,,,,,reviewed,us,us
+1997-01-14T00:02:26.980Z,39.587,-120.142,5,3,md,,,,1.01,us,usp0007vum,2014-11-07T01:01:57.870Z,"Northern California",earthquake,,,,,reviewed,us,nc
+1997-01-10T20:44:14.370Z,39.604,-120.177,5,3.1,ml,,,,0.87,us,usp0007vqk,2014-11-07T01:01:57.413Z,"Northern California",earthquake,,,,,reviewed,us,brk
+1996-12-12T18:35:40.150Z,39.3828333,-119.9273333,3.629,4.3,mh,6,338,,1.14,ci,ci7052948,2016-02-11T20:18:26.638Z,"15km S of Mogul, Nevada",earthquake,20.69,31.61,,0,reviewed,ci,ci
+1996-11-16T01:53:35.080Z,39.677,-120.01,5,3.4,ml,,,,1,us,usp0007t2y,2014-11-07T01:01:35.840Z,"Northern California",earthquake,,,,,reviewed,us,brk
+1995-11-17T18:16:55.200Z,39.683,-119.996,2.599,3.8,mb,0,0,,0,ci,ci3243552,2016-02-13T07:12:45.461Z,"2km W of Cold Springs, Nevada",earthquake,,,,0,reviewed,ci,ci
+1995-11-16T14:59:24.000Z,39.7,-120.015,2.599,3.6,ml,0,0,,0,ci,ci3243401,2016-02-12T21:07:41.365Z,"4km NW of Cold Springs, Nevada",earthquake,,,,0,reviewed,ci,ci
+1995-11-16T07:37:53.490Z,39.652,-120.048,5,3,md,,,,0.8,us,usp00076y0,2014-11-07T00:59:11.227Z,"Northern California",earthquake,,,,,reviewed,us,gm$
+1995-11-15T21:58:19.000Z,39.69,-119.984,3.208,3.6,ml,0,0,,0,ci,ci3243290,2016-02-12T10:45:52.285Z,"1km NNW of Cold Springs, Nevada",earthquake,,,,0,reviewed,ci,ci
+1995-11-15T21:09:28.270Z,39.622,-120.016,5,3,ml,,,,0.7,us,usp00076xb,2014-11-07T00:59:11.153Z,"Northern California",earthquake,,,,,reviewed,us,gs/
+1995-11-15T20:33:58.400Z,39.672,-119.98,4.638,4.6,mb,0,0,,0,ci,ci3243273,2016-02-11T19:42:07.229Z,"1km SSW of Cold Springs, Nevada",earthquake,,,,0,reviewed,ci,ci
+1995-11-15T20:18:47.800Z,39.673,-119.958,5,3.1,ml,,,,1,us,usp00076x6,2014-11-07T00:59:11.136Z,"Nevada",earthquake,,,,,reviewed,us,gs/
+1995-04-08T22:06:17.390Z,39.317,-120.046,10.1,3,md,,,,,us,usp0006vcu,2014-11-07T00:57:40.746Z,"Northern California",earthquake,,,,,reviewed,nc,gm/
+1994-11-18T21:12:43.200Z,39.171,-119.711,3.355,3.4,ml,0,0,3.211,0,ci,ci3193220,2016-02-12T05:19:54.522Z,"5km E of Carson City, Nevada",earthquake,,,,0,reviewed,ci,ci
+1994-11-18T20:50:59.100Z,39.168,-119.733,3.599,4.4,ml,0,0,,0,ci,ci3193218,2016-02-12T18:00:38.290Z,"3km E of Carson City, Nevada",earthquake,,,,0,reviewed,ci,ci
+1994-07-13T21:25:11.380Z,39.33,-120.085,15.4,3.1,md,,,,,us,usp0006fmk,2014-11-07T00:55:51.889Z,"Northern California",earthquake,,,,,reviewed,nc,gm/
+1994-06-22T04:10:04.600Z,39.157,-119.591,3.712,3.5,ml,0,0,,0,ci,ci3173344,2016-02-13T06:22:58.105Z,"9km S of Dayton, Nevada",earthquake,,,,0,reviewed,ci,ci
+1993-10-23T06:59:33.820Z,39.104,-119.582,6.7,3,md,,,,,us,usp00062gq,2014-11-07T00:54:14.660Z,"Nevada",earthquake,,,,,reviewed,nc,gm$
+1993-08-09T02:19:08.210Z,39.389,-120.24,15.4,3,md,,,,,us,usp0005y5d,2014-11-07T00:53:41.243Z,"Northern California",earthquake,,,,,reviewed,nc,gm$
+1993-08-06T00:31:39.550Z,39.388,-120.246,15.4,3.1,md,,,,,us,usp0005y09,2014-11-07T00:53:39.947Z,"Northern California",earthquake,,,,,reviewed,nc,gm$
+1993-04-20T01:33:58.100Z,39.839,-119.637,2.599,3.5,ml,0,0,,0,ci,ci3101516,2016-02-10T06:00:25.002Z,"22km NNE of Spanish Springs, Nevada",earthquake,,,,0,reviewed,ci,ci
+1993-02-05T17:10:24.900Z,39.259,-119.538,2.629,3.6,ml,0,0,,0,ci,ci3091353,2016-02-10T09:27:05.705Z,"5km ENE of Dayton, Nevada",earthquake,,,,0,reviewed,ci,ci
+1992-09-23T16:29:43.800Z,39.683,-120.23,17,3.6,ml,,,,,us,usp0005ecw,2014-11-07T00:51:30.316Z,"Northern California",earthquake,,,,,reviewed,brk,gs$
+1992-09-23T16:28:03.000Z,39.68,-120.253,13,3.3,ml,,,,,us,usp0005ecv,2014-11-07T00:51:30.313Z,"Northern California",earthquake,,,,,reviewed,brk,gs$
+1992-08-30T23:42:09.000Z,39.397,-120.247,19,3.2,ml,,,,,us,usp0005dbd,2014-11-07T00:51:20.265Z,"Northern California",earthquake,,,,,reviewed,brk,brk
+1992-07-10T06:43:15.500Z,39.219,-119.546,2.599,3.1,ml,0,0,,0,ci,ci3040805,2016-02-10T00:39:17.812Z,"4km ESE of Dayton, Nevada",earthquake,,,,0,reviewed,ci,ci
+1992-04-06T04:01:29.000Z,39.67,-119.82,9.5,4.4,ml,,,,,us,usp00055cx,2014-11-07T00:50:25.126Z,"Nevada",earthquake,,,,,reviewed,ren,brk
+1992-03-24T11:38:53.970Z,39.459,-119.9,5,3.5,ml,,,,1,us,usp00054s0,2014-11-07T00:50:18.502Z,"Nevada",earthquake,,,,,reviewed,us,brk
+1991-02-19T03:47:28.800Z,39.325,-119.445,1,3,ml,,,,,us,usp0004n40,2014-11-07T00:48:02.043Z,"Nevada",earthquake,,,,,reviewed,brk,brk
+1991-01-03T02:08:51.920Z,39.222,-119.741,7.1,4,ml,,,,,us,usp0004k4r,2014-11-07T00:47:44.710Z,"Nevada",earthquake,,,,,reviewed,ren,brk
+1991-01-02T23:44:34.340Z,39.216,-119.724,10,3.5,ml,,,,,us,usp0004k4e,2014-11-07T00:47:44.508Z,"Nevada",earthquake,,,,,reviewed,ren,brk
+1991-01-02T23:16:35.550Z,39.212,-119.733,5.8,4.4,mb,,,,,us,usp0004k4a,2014-11-07T00:47:44.484Z,"Nevada",earthquake,,,,4,reviewed,ren,us
+1991-01-02T16:29:43.470Z,39.207,-119.732,3.2,3.8,ml,,,,,us,usp0004k3z,2014-11-07T00:47:44.308Z,"Nevada",earthquake,,,,,reviewed,ren,brk
+1991-01-02T12:46:40.440Z,39.211,-119.738,6,3.4,ml,,,,,us,usp0004k3r,2014-11-07T00:47:44.272Z,"Nevada",earthquake,,,,,reviewed,ren,brk
+1991-01-02T12:26:37.740Z,39.212,-119.734,7.8,3.4,ml,,,,,us,usp0004k3q,2014-11-07T00:47:44.265Z,"Nevada",earthquake,,,,,reviewed,ren,brk
+1991-01-02T12:07:46.920Z,39.207,-119.728,6.6,3.5,ml,,,,,us,usp0004k3m,2014-11-07T00:47:44.243Z,"Nevada",earthquake,,,,,reviewed,ren,brk
+1990-07-25T08:48:44.700Z,39.538,-120.352,9,3.1,ml,,,,,us,usp0004cgz,2014-11-07T00:46:46.127Z,"Northern California",earthquake,,,,,reviewed,brk,brk
+1989-01-20T12:10:41.560Z,39.288,-119.672,0.5,3.1,md,,,,,us,usp0003r14,2014-11-07T00:43:28.017Z,"Nevada",earthquake,,,,,reviewed,ren,ren
+1988-12-30T20:35:50.970Z,39.298,-119.639,0.1,3.2,md,,,,,us,usp0003qbp,2014-11-07T00:43:19.766Z,"Nevada",earthquake,,,,,reviewed,ren,ren
+1988-11-07T10:11:54.470Z,39.41,-120.212,13.4,3.1,md,,,,,us,usp0003nnm,2014-11-07T00:43:05.435Z,"Northern California",earthquake,,,,,reviewed,ren,ren
+1988-04-15T20:33:05.000Z,39.18,-119.697,22,3.4,ml,,,,,us,usp0003f28,2014-11-07T00:41:57.645Z,"Nevada",earthquake,,,,,reviewed,brk,brk
+1988-03-20T16:16:57.800Z,39.098,-119.667,8,3,ml,,,,,us,usp0003e56,2014-11-07T00:41:49.025Z,"Nevada",earthquake,,,,,reviewed,brk,brk
+1987-05-28T02:19:57.270Z,39.443,-119.868,5,3.3,md,,,,1.3,us,usp00035a7,2014-11-07T00:40:26.933Z,"Nevada",earthquake,,,,,reviewed,us,ren
+1986-06-28T02:06:29.800Z,39.533,-119.77,13,3.9,md,,,,,us,usp0002vg5,2014-11-07T00:38:35.369Z,"Nevada",earthquake,,,,,reviewed,brk,ren
+1985-09-03T22:20:42.930Z,39.465,-119.42,5,3,ml,,,,0.9,us,usp0002jdd,2014-11-07T00:37:07.071Z,"Nevada",earthquake,,,,,reviewed,us,brk
+1985-05-28T07:56:45.800Z,39.51,-119.478,5,3.5,mb,,,,,us,usp0002f94,2014-11-07T00:36:37.210Z,"Nevada",earthquake,,,,1,reviewed,brk,us
+1983-10-16T20:39:17.240Z,39.659,-120.042,5,3.1,ml,,,,0.6,us,usp0001z1k,2014-11-07T00:33:59.902Z,"Northern California",earthquake,,,,,reviewed,us,brk
+1983-07-21T04:49:15.820Z,39.415,-119.819,5,3.2,ml,,,,0.8,us,usp0001wzf,2014-11-07T00:33:30.121Z,"Nevada",earthquake,,,,,reviewed,us,us
+1983-07-03T15:08:19.200Z,39.412,-120.217,14,4,ml,,,,,us,usp0001wj7,2014-11-07T00:33:25.090Z,"Northern California",earthquake,,,,,reviewed,brk,brk
+1983-07-03T12:44:42.200Z,39.408,-120.223,15,3.4,ml,,,,,us,usp0001wj4,2014-11-07T00:33:25.041Z,"Northern California",earthquake,,,,,reviewed,brk,brk
+1983-01-09T14:58:57.010Z,39.115,-119.555,5,3.8,ml,,,,0.9,us,usp0001s3w,2014-11-07T00:32:28.088Z,"Nevada",earthquake,,,,,reviewed,us,brk
+1982-06-04T03:12:48.970Z,39.747,-120.051,5,3.3,ml,,,,1.1,us,usp0001mp8,2014-11-07T00:31:24.641Z,"Northern California",earthquake,,,,,reviewed,us,brk
+1981-09-30T03:14:03.580Z,39.149,-119.594,8.1,3.4,ml,,,,0.9,us,usp0001g64,2014-11-07T00:30:08.146Z,"Nevada",earthquake,,2.3,,,reviewed,us,brk
+1981-04-29T11:55:52.800Z,39.273,-119.768,10,4.2,ml,,,,,us,usp0001deu,2014-11-07T00:29:21.477Z,"Nevada",earthquake,,,,,reviewed,brk,brk
+1981-03-28T05:04:37.800Z,39.388,-120.238,5,3.8,ml,,,,,us,usp0001cx5,2014-11-07T00:29:06.347Z,"Northern California",earthquake,,,,,reviewed,brk,brk
+1981-03-28T04:39:59.800Z,39.395,-120.23,5,3.3,ml,,,,,us,usp0001cx4,2014-11-07T00:29:06.345Z,"Northern California",earthquake,,,,,reviewed,brk,brk
+1980-08-15T04:25:33.100Z,39.579,-120.258,5,3.3,ml,,,,,us,usp00019dh,2014-11-06T23:24:25.247Z,"Northern California",earthquake,,,,,reviewed,us,brk
+1979-07-19T16:51:08.200Z,39.466,-119.802,5,3.3,ml,,,,,us,usp00011yb,2014-11-06T23:22:03.966Z,"Nevada",earthquake,,,,,reviewed,us,brk
+1979-02-22T15:57:36.090Z,39.6695,-120.1063333,6,4.93,ml,18,329,,8.06,ci,ci3346284,2016-02-01T21:23:45.700Z,"11km W of Cold Springs, NV",earthquake,99,31.61,0.197,4,reviewed,ci,ci
+1978-10-10T06:13:53.800Z,39.431,-119.638,5,3,ml,,,,,us,usp0000wy6,2014-11-06T23:21:52.797Z,"Nevada",earthquake,,,,,reviewed,us,brk
+1978-01-21T17:22:22.900Z,39.17,-119.588,5,3,ml,,,,,us,usp0000smx,2014-11-06T23:21:46.660Z,"Nevada",earthquake,,,,,reviewed,us,brk
+1976-09-03T17:43:47.100Z,39.593,-120.058,2,3.4,ml,,,,,us,usp0000j6g,2014-11-06T23:21:37.017Z,"Northern California",earthquake,,,,,reviewed,b,brk
+1976-08-14T07:58:32.400Z,39.446,-119.539,4,3.1,ml,,,,,us,usp0000hu8,2014-11-06T23:21:36.698Z,"Nevada",earthquake,,,,,reviewed,us,brk
+1976-06-29T17:12:11.800Z,39.435,-119.545,7,3,ml,,,,,us,usp0000h46,2014-11-06T23:21:36.025Z,"Nevada",earthquake,,,,,reviewed,us,gs
+1976-06-29T13:10:48.800Z,39.447,-119.538,6,3.5,ml,,,,,us,usp0000h43,2014-11-06T23:21:36.023Z,"Nevada",earthquake,,,,,reviewed,us,brk
+1976-06-24T00:24:45.100Z,39.454,-119.531,2,3.5,ml,,,,,us,usp0000h12,2014-11-06T23:21:35.863Z,"Nevada",earthquake,,,,,reviewed,us,brk
+1973-11-29T20:59:41.000Z,39.533,-119.95,5,3,ml,,,,,us,usp00004c0,2014-11-06T23:21:21.634Z,"Nevada",earthquake,,,,,reviewed,r,ren
+1966-09-12T16:41:04.000Z,39.385,-120.252,10,5.9,mw,,,,,iscgem,iscgem843363,2015-05-13T18:53:00.000Z,"Northern California",earthquake,,,,,automatic,iscgem,iscgem

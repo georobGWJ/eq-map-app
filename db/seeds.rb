@@ -21,7 +21,7 @@ request["cache-control"] = 'no-cache'
 response = http.request(request)
 eq_data = response.read_body
 
-p eq_data.class
+User.create({first_name:"Rob", last_name:"Turner", email:"rob@turner.com", password:"password"})
 
 File.open('./tempdata.txt', 'w') { |file| file.write(eq_data) }
 
@@ -29,7 +29,14 @@ eqs = CSV.read('./tempdata.txt', headers:false)
 
 idx = 1
 while idx < eqs.length
-  Event.create({usgs_id:eqs[idx][11], northing:eqs[idx][1], easting:eqs[idx][2],
+  eq = Event.create({usgs_id:eqs[idx][11], northing:eqs[idx][1], easting:eqs[idx][2],
                 depth:eqs[idx][3], magnitude:eqs[idx][4], date_time:eqs[idx][0]})
   idx += 1
+
+
+@user = User.find(1)
+UserEvent.create({user_id:@user.id, event_id:eq.id,
+                  location_name:"San Francisco",
+                  location_id:1})
+
 end

@@ -16,7 +16,7 @@
       <td>
         <h3>Create New Dataset</h3>
         <div>
-          <form id="create-catalog-form action="/items" method="POST">
+          <form id="create-catalog-form" action="/events" method="POST">
              <input type="text" name="data[name]" placeholder="Dataset Name"><br>
              <input type="text" name="data[latitude]" placeholder="Latitude"><br>
              <input type="text" name="data[longitude]" placeholder="Longitude"><br>
@@ -25,7 +25,7 @@
              <input type="date" name="data[endtime]" placeholder="End Date"><br>
              <input type="text" name="data[minmag]" placeholder="Minimum Magnitude"><br>
 
-             <input type="submit" name="Get Earthquakes" title="Get">
+             <input type="submit" name="Get Earthquakes">
           </form>
           <%if @errors%>
              <span><%=@errors%>, Please Try Again</span>

@@ -26,5 +26,4 @@ end
 delete '/sessions/logout/?' do
   session[:id] = nil
   erb :'/index'
-  #  erb :'/headers/_header_links.html', layout: !request.xhr?
 end

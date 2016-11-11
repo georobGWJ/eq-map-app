@@ -20,10 +20,7 @@ var getEarthquakes =   $.ajax({
         url: "/events",
         method: "GET",
         dataType: "json",
-        context: document.body,
-        success: function(){
-           alert("done");
-        }
+        context: document.body
       }).done(function(response) {
         earthquakes = response;
         eqfeed_callback(earthquakes);
