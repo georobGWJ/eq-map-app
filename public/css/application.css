@@ -1,0 +1,78 @@
+body {
+  background-image: url("/images/carrizo_plains01.png");
+  opacity: 50%;
+}
+
+html body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+#map {
+  margin:auto;
+  height: 500px;
+  width: 80%;
+}
+
+#header_container {
+  margin-top: 5px;
+  /*overflow: hidden;*/
+  padding: 5px;
+  border: 2px solid blue;
+  border-radius: 5px;
+  width: 90%;
+  margin: auto;
+}
+
+.container {
+
+}
+
+p {
+    font-family: Georgia, serif;
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 8px;
+}
+
+h1, h2, h3 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 32px;
+    line-height: 48px;
+    margin-bottom: 16px;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 48px;
+}
+
+.display-top {
+  /*border: 1px solid blue;*/
+  height: 80%;
+  width: 90%
+  margin-left: 25%;
+}
+
+.display-main {
+  border: 1px solid black;
+}
+
+#header-table {
+  width: 90%;
+}
+
+#header-left {
+  width: 65%;
+}
+
+#header-right {
+  width: 25%;
+  align-self: center;
+}

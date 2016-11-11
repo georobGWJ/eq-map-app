@@ -1,0 +1,27 @@
+<% require 'dotenv' %>
+<% Dotenv.load %>
+
+<div class="container">
+  <ul class="tabs">
+    <li><a href="/user_events">Data Management</a></li>
+    <li class="active"><a href="/events">Earthquake Map</a></li>
+    <li><a href="/data_viz">Earthquake Visualization</a></li>
+    <li><a href="/users">Account Data</a></li>
+  </ul>
+</div>
+
+<div class="display-top"><p>You're at /events/index</p></div>
+
+<div class="display-main" id="map">
+
+
+
+  <% api_key = ENV['GOOGLE_EARTH_KEY'] %>
+  <script async defer
+  src="https://maps.googleapis.com/maps/api/js?key=<%="#{api_key}"%>&callback=initMap"></script>
+
+
+<hr>
+
+
+</div>

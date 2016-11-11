@@ -1,0 +1,11 @@
+<form id="register_new_user_form" action="/users" method="POST">
+   <input type="text" name="first_name" placeholder="First Name"><br />
+   <input type="text" name="last_name" placeholder="Last Name"><br />
+   <input type="text" name="email" placeholder="E-Mail"><br />
+   <input type="password" name="password" placeholder="Enter Password">
+   <input type="password" name="password_confirmation" placeholder="Confirm Password">
+   <input type="submit" name="Create Account">
+</form>
+<%if @errors%>
+   <span><%=@errors%><br> Please Try Again</span>
+<%end%>
